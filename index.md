@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Machine Learning Challenges for Hearing Aids (Clarity-2023)
+title: Machine Learning Challenges for Hearing Aids (Cadenza-2023)
 ---
 
 <div class="row">
@@ -15,7 +15,7 @@ title: Machine Learning Challenges for Hearing Aids (Clarity-2023)
       <button class="btn btn-primary">Click here to register me for the Clarity 2023 Workshop!</button>
     </a> -->
 
-We are now pleased to announce the 4th Clarity Workshop for Machine Learning Challenges for Hearing Aids, to be collocated with Interspeech 2023, Dublin, Ireland. This will be the first in-person Clarity event, following the <a href="https://claritychallenge.org/clarity2021-workshop/">1st</a>, <a href="https://claritychallenge.org/clarity2021-workshop/">2nd</a> and <a href="https://claritychallenge.org/clarity2021-workshop/">3rd</a> Clarity workshops that were held as online event.
+We are now pleased to announce the 1st Cadenza Workshop for Machine Learning Challenges for Hearing Aids. This will be the first online Clarity event, following the <a href="https://claritychallenge.org/clarity2021-workshop/">1st</a>, <a href="https://claritychallenge.org/clarity2021-workshop/">2nd</a> and <a href="https://claritychallenge.org/clarity2021-workshop/">3rd</a> Clarity workshops that were held as online event.
 
 <h2>About</h2>
 
@@ -56,32 +56,33 @@ The Clarity-2023 will also host the 2nd Clarity Prediction Challenge, that is ta
         <!-- <center><i>Virtual Workshop</i></center> -->
         <h2>Organisers</h2>
 
-        <div class="board-list">
-            <ul>
-                <li> Michael Akeroyd<br /><a href="#" class="text-muted">University of Nottingham, UK</a></li>
-                <li> Will Bailey<br /> <a href="#" class="text-muted">University of Sheffield, UK </a></li>
-                <li> Jon Barker<br /> <a href="#" class="text-muted">University of Sheffield, UK </a></li>
-                <li> Fei Chen<br /> <a href="#" class="text-muted">Southern Uni. Sci. & Tech, China </a></li>
-                <li> Trevor Cox<br /> <a href="#" class="text-muted">University of Salford, UK </a></li>
-                <li> John Culling<br /> <a href="#" class="text-muted">University of Cardiff, UK</a></li>
-                <li> Simone Graetzer<br /> <a href="#" class="text-muted">University of Salford, UK </a></li>
-                <li> Andrew Hines<br /> <a href="#" class="text-muted">University College Dublin, Ireland </a></li>
-                <li> Graham Naylor<br /> <a href="#" class="text-muted">University of Nottingham, UK</a></li>
-                <li> <a href="organisers.html"> More info </a> </li>
-            </ul>
-        </div>
+            <div class="board-list">
+                <ul>
+                    <li> Michael Akeroyd<br /><a href="#" class="text-muted">University of Nottingham, UK</a></li>
+                    <li> Will Bailey<br /> <a href="#" class="text-muted">University of Sheffield, UK </a></li>
+                    <li> Jon Barker<br /> <a href="#" class="text-muted">University of Sheffield, UK </a></li>
+                    <li> Fei Chen<br /> <a href="#" class="text-muted">Southern Uni. Sci. & Tech, China </a></li>
+                    <li> Trevor Cox<br /> <a href="#" class="text-muted">University of Salford, UK </a></li>
+                    <li> John Culling<br /> <a href="#" class="text-muted">University of Cardiff, UK</a></li>
+                    <li> Simone Graetzer<br /> <a href="#" class="text-muted">University of Salford, UK </a></li>
+                    <li> Andrew Hines<br /> <a href="#" class="text-muted">University College Dublin, Ireland </a></li>
+                    <li> Graham Naylor<br /> <a href="#" class="text-muted">University of Nottingham, UK</a></li>
+                    <li> <a href="organisers.html"> More info </a> </li>
+                </ul>
+            </div>
 
         <h2> Keynote Speakers </h2>
 
-          <div class="board-list">
+            <div class="board-list">
             <ul>
                 <li> DeLiang Wang<br /> <a href="#" class="text-muted">Ohio State University, US</a></li>
                 <li> Fei Chen<br /> <a href="#" class="text-muted">SUSTech, China</a></li>
             </ul>
+            </div>
 
          <h2> Invited Talks </h2>
 
-          <div class="board-list">
+            <div class="board-list">
             <ul>
                 <li> Daniel Wong <br /> <a href="#" class="text-muted">Meta, US</a></li>
                 <li> Peter Derleth<br /> <a href="#" class="text-muted">Sonova AG, Switzerland</a></li>
@@ -91,33 +92,31 @@ The Clarity-2023 will also host the 2nd Clarity Prediction Challenge, that is ta
 
             </ul>
             
-        </div>
+            </div>
         <h2> Registration </h2>
 
-        <div class="board-list">
-            <ul>
-                <li> Registration is <a href="registration.html">open</a></li>
-             <!--   <li> Paper submission deadline 2nd June</li> -->
-             <!--    <li> <a href="dates.html">More info</a> </li> -->
-            </ul>
-        </div>
+            <div class="board-list">
+                <ul>
+                    <li> Registration is <a href="registration.html">open</a></li>
+                 <!--   <li> Paper submission deadline 2nd June</li> -->
+                 <!--    <li> <a href="dates.html">More info</a> </li> -->
+                </ul>
+            </div>
         <!--<h3> News </h3>
-
-    <div class="board-list">
-        <ul>
-            <li>
-                Full papers <a href="programme.html">now available</a>.
-            </li>
-            <li>
-                Keynote Speaker: <br/> <a href="programme.html#keynote1">Florian Metze, Carnegie Mellon University</a>
-            </li>
-            <li>
-                Keynote Speaker: <br/> <a href="programme.html#keynote2">John HL Hansen, University of Texas at Dallas</a>
-            </li>
-        </ul>
-    </div> -->
+    
+            <div class="board-list">
+                <ul>
+                    <li>
+                        Full papers <a href="programme.html">now available</a>.
+                    </li>
+                    <li>
+                        Keynote Speaker: <br/> <a href="programme.html#keynote1">Florian Metze, Carnegie Mellon University</a>
+                    </li>
+                    <li>
+                        Keynote Speaker: <br/> <a href="programme.html#keynote2">John HL Hansen, University of Texas at Dallas</a>
+                    </li>
+                </ul>
+            </div> -->
+        </div>
     </div>
-
-</div>
-
 </div>
