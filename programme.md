@@ -109,6 +109,7 @@ Timings and session details are provided below. All times are in Dublin local ti
 <div class="card  m-3">
 <div class="card-body">
 
+<!--
 <table>
 <tbody>
 
@@ -145,6 +146,8 @@ Non-Intrusive Speech Intelligibility Prediction in the Clarity Prediction Challe
 
 </tbody>
 </table>
+
+-->
 
 </div>
 </div>
