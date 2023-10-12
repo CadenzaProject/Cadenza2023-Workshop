@@ -1,4 +1,4 @@
-# Website for the clarity2022-workshop
+# Website for the Cadenza2023--workshop
 
 ## Building
 
