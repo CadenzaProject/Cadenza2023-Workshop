@@ -136,6 +136,7 @@ We thank our generous sponsors
     </div>
 </div>
 
+<!--
     <button class="btn btn-outline-info" style="margin: 10px; border-radius: 4px;" type="button" data-toggle="collapse" data-target="#sponsorshipRules" aria-expanded="false" aria-controls="sponsorshipRules">
         Sponsorship Terms
       </button>
@@ -147,3 +148,4 @@ We thank our generous sponsors
         Sponsors have provided at least 2,000 GBP worth of support to the workshop either through challenge and paper prizes, or through computational resources to support the Clarity Challenge. In return sponsors will be acknowledged on the website and in the workshop proceedings.
 
         </div>
+-->
