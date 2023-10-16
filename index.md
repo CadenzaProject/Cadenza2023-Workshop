@@ -72,7 +72,7 @@ reducing the health and well-being effects people otherwise get from music.</p>
 
             <div class="board-list">
             <ul>
-               <!-- <li> --<br /> <a href="#" class="text-muted">---</a></li> -->
+              <li> --<br /> <a href="#" class="text-muted">---</a></li>
             </ul>
             </div>
         -->
@@ -109,6 +109,7 @@ reducing the health and well-being effects people otherwise get from music.</p>
                     </li>
                 </ul>
             </div> 
-        </div> -->
+            -->
+        </div> 
     </div>
 </div>

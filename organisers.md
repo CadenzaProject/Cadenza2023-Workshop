@@ -119,7 +119,7 @@ We thank our generous sponsors
     </div>
 
     <div class="row">
-<div class="row"></div>
+    <div class="row"></div>
         
         <div class="col-sm">
             <a href="#"><img height="90" vspace="20" alt="RNID logo" src="{{ "/assets/images/logos/google-logo.png"| relative_url }}"></a>
