@@ -9,9 +9,12 @@ If you have any queries please contact the organisers by emailing <a href="mailt
     <div class="col-md-6">
         <div class="container">
             <ul>
-                    <li> Michael Akeroyd<br /><a href="#" class="text-muted">University of Nottingham</a></li>
-                    <li> Jon Barker<br /> <a href="#" class="text-muted">University of Sheffield </a></li>
-                    <li> Trevor Cox<br /> <a href="#" class="text-muted">University of Salford </a></li>
+                <li> Michael Akeroyd<br /><a href="#" class="text-muted">University of Nottingham, UK</a></li>
+                <li> Scott Bannister<br /><a href="#" class="text-muted">University of Leeds, UK</a></li>
+                <li> Jon Barker<br /> <a href="#" class="text-muted">University of Sheffield, UK </a></li>
+                <li> Trevor Cox<br /> <a href="#" class="text-muted">University of Salford, UK </a></li>
+                <li> Bruno Fazenda<br /><a href="#" class="text-muted">University of Salford, UK</a></li>
+                <li> Jennifer Firth<br /><a href="#" class="text-muted">University of Nottingham, UK</a></li>
             </ul>
         </div>
     </div>
@@ -19,10 +22,11 @@ If you have any queries please contact the organisers by emailing <a href="mailt
     <div class="col-md-6">
         <div class="container">
             <ul>
-            <li> John Culling<br /> <a href="#" class="text-muted">University of Cardiff</a></li>
-            <li> Simone Graetzer<br /> <a href="#" class="text-muted">University of Salford </a></li>
-            <li> Andrew Hines<br /> <a href="#" class="text-muted">University College Dublin </a></li>
-            <li> Graham Naylor<br /> <a href="#" class="text-muted">University of Nottingham</a></li>
+                <li> Simone Graetzer<br /> <a href="#" class="text-muted">University of Salford, UK </a></li>
+                <li> Alinka Greasley<br /> <a href="#" class="text-muted">University of Leeds, UK </a></li>
+                <li> Gerardo Roa Dabike<br /> <a href="#" class="text-muted">University of Salford, UK </a></li>
+                <li> Rebecca Vos<br /> <a href="#" class="text-muted">University of Salford, UK </a></li>
+                <li> William Whitmer<br /> <a href="#" class="text-muted">University of Nottingham, UK </a></li>
             </ul>
         </div>
     </div>
