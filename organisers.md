@@ -119,7 +119,7 @@ We thank our generous sponsors
     </div>
 
     <div class="row">
-        <div class="col-sm"></div>
+        
         <div class="col-sm">
             <a href="#"><img height="90" vspace="20" alt="RNID logo" src="{{ "/assets/images/logos/google-logo.png"| relative_url }}"></a>
         </div>
@@ -131,8 +131,7 @@ We thank our generous sponsors
         <div class="col-sm">
             <a href="#"><img height="90" vspace="20" alt="RNID logo" src="{{ "/assets/images/logos/bbc-logo.png"| relative_url }}"></a>
         </div>
-        
-        <div class="col-sm"></div>
+
     </div>
 </div>
 
