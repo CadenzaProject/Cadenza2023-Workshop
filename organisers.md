@@ -3,14 +3,13 @@ layout: page
 title: Organisers
 ---
 
-If you have any queries please contact the organisers by emailing <a href="mailto:claritychallengecontact@gmail.com">claritychallengecontact@gmail.com</a>
+If you have any queries please contact the organisers by emailing <a href="mailto:claritychallengecontact@gmail.com">cadenzachallengecontact@gmail.com</a>
 
 <div class="row">
     <div class="col-md-6">
         <div class="container">
             <ul>
                     <li> Michael Akeroyd<br /><a href="#" class="text-muted">University of Nottingham</a></li>
-                    <li> Will Bailey<br /> <a href="#" class="text-muted">University of Sheffield </a></li>
                     <li> Jon Barker<br /> <a href="#" class="text-muted">University of Sheffield </a></li>
                     <li> Fei Chen<br /> <a href="#" class="text-muted">Southern University of Science and Technology, China </a></li>
                     <li> Trevor Cox<br /> <a href="#" class="text-muted">University of Salford </a></li>
