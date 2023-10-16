@@ -3,7 +3,7 @@ layout: page
 title: Programme
 ---
 
-Clarity-2023 will be a one-day workshop with a single track.
+Cadenza-2023 will be a one-day workshop with a single track.
 
 The morning will focus on <b>hearing aid speech intelligibility prediction</b> and will present the outcomes 2nd Clarity Prediction Challenge. The afternoon will focus on <b>hearing aid speech enhancement</b> including a presentation of plans for 3rd Clarity Enhancement Challenge.
 

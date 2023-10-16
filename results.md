@@ -113,184 +113,18 @@ Results are shown for all submitted systems. For RMSE scores, small values are b
       <td>0.77</td>
     </tr>
 
-    <tr>
-      <td></td>
-      <td>E009</td>
-      <td>
-        <a
-          href="./papers/CPC2_E009_report.pdf"
-          >[paper]</a
-        >
-      </td>
-      <td>Yes</td>
-      <td>25.4</td>
-      <td>0.78</td>
-    </tr>
-
-    <tr>
-      <td></td>
-      <td>E022</td>
-      <td>
-        <a
-          href="./papers/CPC2_E022_report.pdf"
-          >[paper]</a
-        >
-      </td>
-      <td>Yes</td>
-      <td>25.7</td>
-      <td>0.77</td>
-    </tr>
-
-    <tr>
-      <td></td>
-      <td>E023</td>
-      <td>
-        <a
-          href="./papers/CPC2_E023_report.pdf"
-          >[paper]</a
-        >
-      </td>
-      <td>No</td>
-      <td>26.4</td>
-      <td>0.76</td>
-    </tr>
-    
-    <tr>
-      <td></td>
-      <td>E016</td>
-      <td>
-        <a
-          href="./papers/CPC2_E016_report.pdf"
-          >[paper]</a
-        >
-      </td>
-      <td>No</td>
-      <td>26.8</td>
-      <td>0.75</td>
-    </tr>
-
-    <tr>
-      <td></td>
-      <td>E025</td>
-      <td>
-        <a
-          href="./papers/CPC2_E025_report.pdf"
-          >[paper]</a
-        >
-      </td>
-      <td>No</td>
-      <td>27.9</td>
-      <td>0.72</td>
-    </tr>
-    
-    <tr>
-      <td></td>
-      <td>beHASPI</td>
-      <td>
-      
-      </td>
-      <td>Yes</td>
-      <td>28.7</td>
-      <td>0.70</td>
-    </tr>
-
-    <tr>
-      <td></td>
-      <td>E003</td>
-      <td>
-        <a
-          href="./papers/CPC2_E003_report.pdf"
-          >[paper]</a
-        >
-      </td>
-      <td>No</td>
-      <td>31.1</td>
-      <td>0.64</td>
-    </tr>
-    
-    <tr>
-      <td></td>
-      <td>E024</td>
-      <td>
-        <a
-          href="./papers/CPC2_E024_report.pdf"
-          >[paper]</a
-        >
-      </td>
-      <td>No</td>
-      <td>31.7</td>
-      <td>0.62</td>
-    </tr>
-
-    <tr>
-      <td></td>
-      <td>E015</td>
-      <td>
-        <a
-          href="./papers/CPC2_E015_report.pdf"
-          >[paper]</a
-        >
-      </td>
-      <td>No</td>
-      <td>35.0</td>
-      <td>0.60</td>
-    </tr>
-    
-    <!--
-    <tr>
-      <td></td>
-      <td>E019</td>
-      <td>
-        
-      </td>
-      <td>No</td>
-      <td></td>
-      <td></td>
-    </tr>
- -->
-    <tr>
-      <td></td>
-      <td>E020</td>
-      <td>
-        <a
-          href="./papers/CPC2_E020_report.pdf"
-          >[paper]</a
-        >
-      </td>
-      <td>No</td>
-      <td>39.8</td>
-      <td>0.33</td>
-    </tr>
-
-    <tr>
-      <td></td>
-      <td>Prior</td>
-      <td>
-        
-      </td>
-      <td>No</td>
-      <td>40.0</td>
-      <td>-</td>
-    </tr>
-
   </tbody>
 </table>
 
-<header>
-    <h1>Prizes</h1>
-  </header>
 
-  <section>
+<section>
     <br />
-
-<p>The Hearing Industry Research Consortium best system prizes were awarded to</p>
 
 <ul>
 <li> 1st place: Cuervo and Marxer, <strong>Temporal-heirarchical features from noise-robust speech foundation models for non-intrusive intelligibility prediction</strong> for best performance overall performance,</li>
 <li> 2nd place: Mogridge et al., <strong>Pre-training intermediate ASR features and Human memory simulation for non-intrusive speech intelligibility prediction in the Clarity Prediction Challenge 2</strong> for 2nd best overall score.</li>
 </ul>
 
-(Note, although 1st and 2nd place systems had very similar RMSE scores, a paired t-test showed that the difference was highly significant).
 
 <p/>
 

@@ -72,8 +72,10 @@ reducing the health and well-being effects people otherwise get from music.</p>
 
             <div class="board-list">
             <ul>
-                <li> DeLiang Wang<br /> <a href="#" class="text-muted">Ohio State University, US</a></li>
-                <li> Fei Chen<br /> <a href="#" class="text-muted">SUSTech, China</a></li>
+
+[//]: # (                <li> DeLiang Wang<br /> <a href="#" class="text-muted">Ohio State University, US</a></li>)
+
+[//]: # (                <li> Fei Chen<br /> <a href="#" class="text-muted">SUSTech, China</a></li>)
             </ul>
             </div>
 
@@ -81,11 +83,16 @@ reducing the health and well-being effects people otherwise get from music.</p>
 
             <div class="board-list">
             <ul>
-                <li> Daniel Wong <br /> <a href="#" class="text-muted">Meta, US</a></li>
-                <li> Peter Derleth<br /> <a href="#" class="text-muted">Sonova AG, Switzerland</a></li>
-                <li> Dominika Woszczyk<br /> <a href="#" class="text-muted">Imperial College, UK</a></li>
-                <li> Lorena Aldana<br /> <a href="#" class="text-muted">University of Edinburgh, UK</a></li>
-                <li> Emma McAuley<br /> <a href="#" class="text-muted">Chime, Ireland</a></li>
+
+[//]: # (                <li> Daniel Wong <br /> <a href="#" class="text-muted">Meta, US</a></li>)
+
+[//]: # (                <li> Peter Derleth<br /> <a href="#" class="text-muted">Sonova AG, Switzerland</a></li>)
+
+[//]: # (                <li> Dominika Woszczyk<br /> <a href="#" class="text-muted">Imperial College, UK</a></li>)
+
+[//]: # (                <li> Lorena Aldana<br /> <a href="#" class="text-muted">University of Edinburgh, UK</a></li>)
+
+[//]: # (                <li> Emma McAuley<br /> <a href="#" class="text-muted">Chime, Ireland</a></li>)
 
             </ul>
             
