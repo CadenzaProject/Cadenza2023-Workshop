@@ -79,23 +79,21 @@ reducing the health and well-being effects people otherwise get from music.</p>
 
         <!-- 
          <h2> Invited Talks </h2>
-
             <div class="board-list">
-            <ul>
-                <!-- <li> Daniel Wong <br /> <a href="#" class="text-muted">Meta, US</a></li> -->
-            </ul>
-            
+                <ul>
+                    <li> Daniel Wong <br /> <a href="#" class="text-muted">Meta, US</a></li>
+                </ul>
             </div>
         -->
         <h2> Registration </h2>
-
             <div class="board-list">
                 <ul>
                     <li> Registration is <a href="registration.html">open</a></li>
-                 <!--   <li> Paper submission deadline 2nd June</li> -->
-                 <!--    <li> <a href="dates.html">More info</a> </li> -->
+                    <li> Paper submission deadline 2nd June</li>
+                    <li> <a href="dates.html">More info</a> </li> 
                 </ul>
             </div>
+
         <!--<h3> News </h3>
     
             <div class="board-list">
@@ -110,7 +108,7 @@ reducing the health and well-being effects people otherwise get from music.</p>
                         Keynote Speaker: <br/> <a href="programme.html#keynote2">John HL Hansen, University of Texas at Dallas</a>
                     </li>
                 </ul>
-            </div> -->
-        </div>
+            </div> 
+        </div> -->
     </div>
 </div>
