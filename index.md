@@ -89,7 +89,7 @@ reducing the health and well-being effects people otherwise get from music.</p>
             <div class="board-list">
                 <ul>
                     <li> Registration is <a href="registration.html">open</a></li>
-                    <li> Paper submission deadline 2nd June</li>
+                    <li> Paper submission deadline 15th November 2023</li>
                     <li> <a href="dates.html">More info</a> </li> 
                 </ul>
             </div>
