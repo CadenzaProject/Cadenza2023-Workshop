@@ -67,7 +67,8 @@ h3 {
 
 .box h2 {
   font-weight: normal;
-  background-color: #882885;
+  /*background-color: #882885;*/
+  background-color: #1a8870;
   color: #f8f8f8;
   text-align: left;
   padding: 1px 12px;
