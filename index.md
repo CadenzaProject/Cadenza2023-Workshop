@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Machine Learning Challenges for Hearing Aids (Cadenza-2023)
+title: Improving music listening for those with hearing impairment (Cadenza-2023)
 ---
 
 <div class="row">
