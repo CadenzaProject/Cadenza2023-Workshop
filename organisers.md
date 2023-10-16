@@ -103,10 +103,10 @@ We thank our generous sponsors
 <h1> Supporters</h1>
 <div id="logos">
     <div class="row">
-        <div class="col-sm"></div>
+
 
         <div class="col-sm">
-            <a href="https://rnid.org.uk/"><img height="90" vspace="20" alt="RNID logo" src="{{ "/assets/images/logos/RNID-logo.png"| relative_url }}"></a>
+            <a href="https://rnid.org.uk/"><img height="90" vspace="20" alt="RNID logo" src="{{ "/assets/images/logos/RNID-logo.jpeg"| relative_url }}"></a>
         </div>
         <div class="col-sm">
             <a href="#"><img height="90" vspace="20" alt="Amazon logo"  src="{{ "/assets/images/logos/logitech-logo.png"| relative_url }}"></a>
@@ -115,7 +115,7 @@ We thank our generous sponsors
             <a href="#"><img height="90" vspace="20" alt="ISCA logo" src="{{ "/assets/images/logos/oldenburg-logo.jpeg"| relative_url }}"></a>
         </div>
 
-        <div class="col-sm"></div>
+
     </div>
 
     <div class="row">
