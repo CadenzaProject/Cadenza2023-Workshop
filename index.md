@@ -68,14 +68,16 @@ reducing the health and well-being effects people otherwise get from music.</p>
                 </ul>
             </div>
 
-        <h2> Keynote Speakers </h2>
+        <!-- <h2> Keynote Speakers </h2>
 
             <div class="board-list">
             <ul>
                <!-- <li> --<br /> <a href="#" class="text-muted">---</a></li> -->
             </ul>
             </div>
+        -->
 
+        <!-- 
          <h2> Invited Talks </h2>
 
             <div class="board-list">
@@ -84,6 +86,7 @@ reducing the health and well-being effects people otherwise get from music.</p>
             </ul>
             
             </div>
+        -->
         <h2> Registration </h2>
 
             <div class="board-list">
