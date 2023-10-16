@@ -7,8 +7,8 @@ title: Machine Learning Challenges for Hearing Aids (Cadenza-2023)
 
 <div class="col-md-9">
 
-    <font color="#882885" size="2pt">
-        <p><big><i><b>19th August 2023, Trinity Business School, Dublin, Ireland</b></i></big></p>
+    <font color="#1a8870" size="2pt">
+        <p><big><i><b>8th December 2023</b></i></big></p>
     </font>
 
 <!--<a href="https://us02web.zoom.us/webinar/register/WN_pvhHQdLLToOIcpLbciPyXg" target="_blank">
