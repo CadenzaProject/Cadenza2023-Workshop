@@ -59,7 +59,7 @@ Please make this clear if quoting them. The finalised listening test scores will
       <th
         class="sep-left-cell text-center"
         data-chartable="true"
-        data-field="haaqi_vdbo"
+        data-field="haaqi"
         data-sortable="true"
         data-value-type="float3"
       >
