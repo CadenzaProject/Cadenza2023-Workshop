@@ -26,9 +26,8 @@ reducing the health and well-being effects people otherwise get from music.</p>
 
 <p>What do we mean by audio quality? Imagine listening to the same music track in two different ways. First listening via a low quality mp3 played on a cheap cell phone, and then via a high quality wav heard over studio-grade loudspeaker monitors. The underlying music is the same in both cases, but the audio quality is very different - this is what we are interested in.</p>
 
-<p>The Cadenza workshops are designed to stimulate the development of systems to improve music for people with a hearing loss.</p>
-
-<p> The aim of this virtual workshop is to report on the <a href="https://cadenzachallenge.org/docs/cadenza1/cc1_intro">First Cadenza Challenge</a>, 
+<p>The Cadenza workshops are designed to stimulate the development of systems to improve music for people with a hearing loss.
+The aim of this virtual workshop is to report on the <a href="https://cadenzachallenge.org/docs/cadenza1/cc1_intro">First Cadenza Challenge</a>, 
 the first ever machine learning challenge targeted to improve music for those with a hearing impairment. 
 The challenge was launched on March 2023, presenting two tracks: listening to music using headphones and, listening to music in a car.
 </p>
