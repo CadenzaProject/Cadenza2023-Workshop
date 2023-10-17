@@ -98,7 +98,7 @@ Please make this clear if quoting them. The finalised listening test scores will
       <td><a href="#">[paper]</a></td>
       <td>0.2548</td>
       <td>0.7059</td>
-      <td>-</td>
+      <td>0</td>
     </tr>
 
     <tr>
