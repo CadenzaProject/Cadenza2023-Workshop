@@ -10,24 +10,29 @@ title: Results
       <div class="container page-content">
           <article>
 
-Results are shown for all submitted systems. For RMSE scores, small values are best. For correlation coefficients (corr), large numbers are best. The table also identifies which systems are intrusive and which are non-intrusive. The system labeled 'prior' simply returns the training set average sentence intelligibility for all sentences. The beHASPI system is the baseline supplied by the organisers.
+Results shown below are for the objective HAAQI scores and for the **provisional** subjective listening test scores measured on the evaluation test set. 
+
+<p>Note, the _subjective listening_ test scores are provisional. They are based on the overall quality score and they are likely to change by a few percent when the tests are finished. 
+Please make this clear if quoting them. The finalised listening test scores will be released on 2024.
+
+</p>
 
 <table
   class="datatable table table-hover table-condensed"
   data-bar-hline="true"
   data-chart-default-mode="bar"
   data-chart-modes="bar,scatter"
-  data-id-field="name"
+  data-id-field="system"
   data-pagination="false"
   data-rank-mode="grouped_muted"
   data-row-highlighting="true"
   data-bar-height="340"
   data-show-chart="true"
   data-show-rank="true"
-  data-sort-name="closed_rmse"
-  data-sort-order="inc"
-  data-scatter-x="closed_rmse"
-  data-scatter-y="open_rmse"
+  data-sort-name="haaqi"
+  data-sort-order="desc"
+  data-scatter-x="haaqi"
+  data-scatter-y="listener"
   data-line-yaxis-beginatzero="true"
 >
   <thead>
@@ -35,102 +40,147 @@ Results are shown for all submitted systems. For RMSE scores, small values are b
       <th class="sep-left-cell text-center" data-rank="true">Rank</th>
       <th
         class="sep-left-cell text-center"
-        data-field="name"
+        data-field="system"
         data-sortable="true"
         data-value-type="str"
-        id="team"
+        id="system"
       >
-        Team
+        System
       </th>
       <th
         class="sep-left-cell text-center"
         data-field="paper"
         data-sortable="true"
         data-value-type="str"
-        id="team"
+        id="paper"
       >
         Paper
       </th>
-       <th
+      <th
         class="sep-left-cell text-center"
         data-chartable="true"
-        data-field="intrusive"
+        data-field="haaqi_vdbo"
         data-sortable="true"
-        data-value-type="bool"
-        id="intrusive"
+        data-value-type="float3"
       >
-        Intrusive?
+        HAAQI VDBO
       </th>
       <th
         class="sep-left-cell text-center"
         data-chartable="true"
-        data-field="closed_rmse"
+        data-field="haaqi_remix"
+        data-sortable="true"
+        data-value-type="float3"
+      >
+        HAAQI Remix
+      </th>
+      <th
+        class="sep-left-cell text-center"
+        data-chartable="true"
+        data-field="listener"
         data-sortable="true"
         data-value-type="float1"
       >
-        RMSE
-      </th>
-      <th
-        class="sep-right-cell sep-left-cell text-center"
-        data-chartable="true"
-        data-field="closed_corr"
-        data-sortable="true"
-        data-value-type="float2"
-      >
-        Corr
+        Listener<br/> (Provisional)
       </th>
 
     </tr>
+
   </thead>
 
   <tbody>
 
     <tr>
       <td></td>
-      <td>E011</td>
-      <td>
-        <a
-          href="./papers/CPC2_E011_report.pdf"
-          >[paper]</a
-        >
-      </td>
-      <td>No</td>
-      <td>25.1</td>
-      <td>0.78</td>
+      <td>Baseline - Demucs</td>
+      <td><a href="#">[paper]</a></td>
+      <td>0.2548</td>
+      <td>0.7059</td>
+      <td>-</td>
     </tr>
 
- <tr>
+    <tr>
       <td></td>
-      <td>E002</td>
-      <td>
-<a
-          href="./papers/CPC2_E002_report.pdf"
-          >[paper]</a
-        >
-      </td>
-      <td>No</td>
-      <td>25.3</td>
-      <td>0.77</td>
+      <td>Baseline - OpenUnmix</td>
+      <td><a href="#">[paper]</a></td>
+      <td>0.2253</td>
+      <td>0.6384</td>
+      <td>-</td>
     </tr>
+
+    <tr>
+      <td></td>
+      <td>E005</td>
+      <td><a href="#">[paper]</a></td>
+      <td>0.0944</td>
+      <td>0.6769</td>
+      <td>-</td>
+    </tr>
+
+    <tr>
+      <td></td>
+      <td>E012</td>
+      <td><a href="#">[paper]</a></td>
+      <td>0.2548</td>
+      <td>0.6841</td>
+      <td>-</td>
+    </tr>
+
+    <tr>
+      <td></td>
+      <td>E015</td>
+      <td><a href="#">[paper]</a></td>
+      <td>0.1826</td>
+      <td>0.4755</td>
+      <td>-</td>
+    </tr>
+
+    <tr>
+      <td></td>
+      <td>E016</td>
+      <td><a href="#">[paper]</a></td>
+      <td>0.1320</td>
+      <td>0.2450</td>
+      <td>-</td>
+    </tr>
+
+    <tr>
+      <td></td>
+      <td>E017</td>
+      <td><a href="#">[paper]</a></td>
+      <td>0.2355</td>
+      <td>0.2754</td>
+      <td>-</td>
+    </tr>
+
+    <tr>
+      <td></td>
+      <td>E021</td>
+      <td><a href="#">[paper]</a></td>
+      <td>0.4211</td>
+      <td>0.4396</td>
+      <td>-</td>
+    </tr>
+
+    <tr>
+      <td></td>
+      <td>E022</td>
+      <td><a href="#">[paper]</a></td>
+      <td>0.1951</td>
+      <td>0.2174</td>
+      <td>-</td>
+    </tr>
+
+
 
   </tbody>
 </table>
 
 
 <section>
-    <br />
-
-<ul>
-<li> 1st place: Cuervo and Marxer, <strong>Temporal-heirarchical features from noise-robust speech foundation models for non-intrusive intelligibility prediction</strong> for best performance overall performance,</li>
-<li> 2nd place: Mogridge et al., <strong>Pre-training intermediate ASR features and Human memory simulation for non-intrusive speech intelligibility prediction in the Clarity Prediction Challenge 2</strong> for 2nd best overall score.</li>
-</ul>
-
-
-<p/>
-
-<p>Congratulations to the winners!</p>
-
 <br />
+
+
 <a href="#TOP">[TOP]</a>
 <p />
 <br />
