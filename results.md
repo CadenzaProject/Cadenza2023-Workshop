@@ -63,7 +63,7 @@ Please make this clear if quoting them. The finalised listening test scores will
         data-chartable="true"
         data-field="haaqi"
         data-sortable="true"
-        data-value-type="float3"
+        data-value-type="float4"
       >
         HAAQI VDBO
       </th>
@@ -72,7 +72,7 @@ Please make this clear if quoting them. The finalised listening test scores will
         data-chartable="true"
         data-field="haaqi_remix"
         data-sortable="true"
-        data-value-type="float3"
+        data-value-type="float4"
       >
         HAAQI Remix
       </th>
@@ -81,7 +81,7 @@ Please make this clear if quoting them. The finalised listening test scores will
         data-chartable="true"
         data-field="listener"
         data-sortable="true"
-        data-value-type="float1"
+        data-value-type="float4"
       >
         Listener<br/> (Provisional)
       </th>
@@ -107,7 +107,7 @@ Please make this clear if quoting them. The finalised listening test scores will
       <td><a href="#">[paper]</a></td>
       <td>0.2253</td>
       <td>0.6384</td>
-      <td>-</td>
+      <td>0</td>
     </tr>
 
     <tr>
@@ -116,7 +116,7 @@ Please make this clear if quoting them. The finalised listening test scores will
       <td><a href="#">[paper]</a></td>
       <td>0.0944</td>
       <td>0.6769</td>
-      <td>-</td>
+      <td>0</td>
     </tr>
 
     <tr>
@@ -125,7 +125,7 @@ Please make this clear if quoting them. The finalised listening test scores will
       <td><a href="#">[paper]</a></td>
       <td>0.2548</td>
       <td>0.6841</td>
-      <td>-</td>
+      <td>0</td>
     </tr>
 
     <tr>
@@ -134,7 +134,7 @@ Please make this clear if quoting them. The finalised listening test scores will
       <td><a href="#">[paper]</a></td>
       <td>0.1826</td>
       <td>0.4755</td>
-      <td>-</td>
+      <td>0</td>
     </tr>
 
     <tr>
@@ -143,7 +143,7 @@ Please make this clear if quoting them. The finalised listening test scores will
       <td><a href="#">[paper]</a></td>
       <td>0.1320</td>
       <td>0.2450</td>
-      <td>-</td>
+      <td>0</td>
     </tr>
 
     <tr>
@@ -152,7 +152,7 @@ Please make this clear if quoting them. The finalised listening test scores will
       <td><a href="#">[paper]</a></td>
       <td>0.2355</td>
       <td>0.2754</td>
-      <td>-</td>
+      <td>0</td>
     </tr>
 
     <tr>
@@ -161,7 +161,7 @@ Please make this clear if quoting them. The finalised listening test scores will
       <td><a href="#">[paper]</a></td>
       <td>0.4211</td>
       <td>0.4396</td>
-      <td>-</td>
+      <td>0</td>
     </tr>
 
     <tr>
@@ -170,7 +170,7 @@ Please make this clear if quoting them. The finalised listening test scores will
       <td><a href="#">[paper]</a></td>
       <td>0.1951</td>
       <td>0.2174</td>
-      <td>-</td>
+      <td>0</td>
     </tr>
 
 
@@ -199,7 +199,7 @@ Results shown below are for the objective HAAQI scores measured on the evaluatio
   data-sort-name="haaqi"
   data-sort-order="desc"
   data-scatter-x="haaqi"
-  data-scatter-y="listener"
+  data-scatter-y="haaqi_classical"
   data-line-yaxis-beginatzero="true"
 >
   <thead>
@@ -228,7 +228,7 @@ Results shown below are for the objective HAAQI scores measured on the evaluatio
         data-chartable="true"
         data-field="haaqi"
         data-sortable="true"
-        data-value-type="float3"
+        data-value-type="float4"
       >
         HAAQI Overall
       </th>
@@ -237,7 +237,7 @@ Results shown below are for the objective HAAQI scores measured on the evaluatio
         data-chartable="true"
         data-field="haaqi_classical"
         data-sortable="true"
-        data-value-type="float3"
+        data-value-type="float4"
       >
         HAAQI Classical
       </th>
@@ -247,7 +247,7 @@ Results shown below are for the objective HAAQI scores measured on the evaluatio
         data-chartable="true"
         data-field="haaqi_hiphop"
         data-sortable="true"
-        data-value-type="float3"
+        data-value-type="float4"
       >
         HAAQI Hip-Hop
       </th>
@@ -257,7 +257,7 @@ Results shown below are for the objective HAAQI scores measured on the evaluatio
         data-chartable="true"
         data-field="haaqi_Instrumental"
         data-sortable="true"
-        data-value-type="float3"
+        data-value-type="float4"
       >
         HAAQI Instrumental
       </th>
@@ -267,7 +267,7 @@ Results shown below are for the objective HAAQI scores measured on the evaluatio
         data-chartable="true"
         data-field="haaqi_international"
         data-sortable="true"
-        data-value-type="float3"
+        data-value-type="float4"
       >
         HAAQI International
       </th>
@@ -277,7 +277,7 @@ Results shown below are for the objective HAAQI scores measured on the evaluatio
         data-chartable="true"
         data-field="haaqi_Orchestral"
         data-sortable="true"
-        data-value-type="float3"
+        data-value-type="float4"
       >
         HAAQI Orchestral
       </th>
@@ -287,7 +287,7 @@ Results shown below are for the objective HAAQI scores measured on the evaluatio
         data-chartable="true"
         data-field="haaqi_pop"
         data-sortable="true"
-        data-value-type="float3"
+        data-value-type="float4"
       >
         HAAQI Pop
       </th>
@@ -297,7 +297,7 @@ Results shown below are for the objective HAAQI scores measured on the evaluatio
         data-chartable="true"
         data-field="haaqi_rock"
         data-sortable="true"
-        data-value-type="float3"
+        data-value-type="float4"
       >
         HAAQI Rock
       </th>
