@@ -15,7 +15,7 @@ title: Improving music listening for those with hearing impairment (Cadenza-2023
       <button class="btn btn-primary">Click here to register me for the Clarity 2023 Workshop!</button>
     </a> -->
 
-We are now pleased to announce the 1st Cadenza Workshop for Machine Learning Challenges for Improving music listening for those with hearing impairment.
+We are now pleased to announce the 1st Cadenza Workshop for Machine Learning Challenges for improving music listening for people with hearing impairment.
 
 <h2>About</h2>
 
@@ -26,7 +26,12 @@ reducing the health and well-being effects people otherwise get from music.</p>
 
 <p>What do we mean by audio quality? Imagine listening to the same music track in two different ways. First listening via a low quality mp3 played on a cheap cell phone, and then via a high quality wav heard over studio-grade loudspeaker monitors. The underlying music is the same in both cases, but the audio quality is very different - this is what we are interested in.</p>
 
-<p>The Cadenza workshops are designed to stimulate the development of systems to improve music for people with a hearing loss..</p>
+<p>The Cadenza workshops are designed to stimulate the development of systems to improve music for people with a hearing loss.</p>
+
+<p> The aim of this virtual workshop is to report on the <a href="https://cadenzachallenge.org/docs/cadenza1/cc1_intro">First Cadenza Challenge</a>, 
+the first ever machine learning challenge targeted to improve music for those with a hearing impairment. 
+The challenge was launched on March 2023, presenting two tracks: listening to music using headphones and, listening to music in a car.
+</p>
 
 <h2>Topics</h2>
 
