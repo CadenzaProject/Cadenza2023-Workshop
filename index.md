@@ -38,7 +38,7 @@ The challenge was launched on March 2023, presenting two tracks: listening to mu
 <p>Any work related to the challenges of hearing aid signal processing will be considered relevant topics include,</p>
 
 <ul>
-<li>Binaural technology for music source separation</li>
+<li>Binaural technology for causal and non-causal music source separation</li>
 <li>Real-time approaches to intelligent remixes</li>
 <li>Statistical model-driven approaches to hearing aid processing</li>
 <li>Machine learning for diverse target listeners</li>
