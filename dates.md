@@ -20,7 +20,7 @@ title: Important Dates
         30th November, 2023
 
      <h2>Cadenza-2023 Workshop and release of Challenge results</h2>
-        8th December 2023
+        8th December 2023 - Europe/Africa time zone
 
     </div>
 
