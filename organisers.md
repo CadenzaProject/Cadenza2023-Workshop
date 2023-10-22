@@ -83,23 +83,6 @@ If you have any queries please contact the organisers by emailing <a href="mailt
 
 <br/>
 
-<h1> Sponsors </h1>
-
-We thank our generous sponsors
-
-<div id="logos">
-    <div class="row">
-        <div class="col-sm"></div>
-
-        <div class="col-sm">
-            <a href="https://epsrc.ukri.org/"><img height="80" vspace="20" alt="EPSRC logo" src="{{ "/assets/images/logos/UKRI_logo.png"| relative_url }}"></a>
-        </div>
-        <div class="col-sm">
-
-    </div>
-
-</div>
-
 <h1> Supporters</h1>
 <div id="logos">
     <div class="row">
