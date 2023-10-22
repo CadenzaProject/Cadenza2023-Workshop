@@ -76,7 +76,8 @@ Please make this clear if quoting them. The finalised listening test scores will
       >
         HAAQI Remix
       </th>
-      <th
+      <!--
+        <th
         class="sep-left-cell text-center"
         data-chartable="true"
         data-field="listener"
@@ -85,7 +86,7 @@ Please make this clear if quoting them. The finalised listening test scores will
       >
         Listener<br/> (Provisional)
       </th>
-
+        -->
     </tr>
 
   </thead>
@@ -98,7 +99,7 @@ Please make this clear if quoting them. The finalised listening test scores will
       <td><a href="#">[paper]</a></td>
       <td>0.2548</td>
       <td>0.7059</td>
-      <td>0</td>
+      
     </tr>
 
     <tr>
@@ -107,7 +108,7 @@ Please make this clear if quoting them. The finalised listening test scores will
       <td><a href="#">[paper]</a></td>
       <td>0.2253</td>
       <td>0.6384</td>
-      <td>0</td>
+     
     </tr>
 
     <tr>
@@ -116,7 +117,7 @@ Please make this clear if quoting them. The finalised listening test scores will
       <td><a href="#">[paper]</a></td>
       <td>0.0944</td>
       <td>0.6769</td>
-      <td>0</td>
+  
     </tr>
 
     <tr>
@@ -125,7 +126,7 @@ Please make this clear if quoting them. The finalised listening test scores will
       <td><a href="#">[paper]</a></td>
       <td>0.2548</td>
       <td>0.6841</td>
-      <td>0</td>
+    
     </tr>
 
     <tr>
@@ -134,7 +135,7 @@ Please make this clear if quoting them. The finalised listening test scores will
       <td><a href="#">[paper]</a></td>
       <td>0.1826</td>
       <td>0.4755</td>
-      <td>0</td>
+ 
     </tr>
 
     <tr>
@@ -143,7 +144,7 @@ Please make this clear if quoting them. The finalised listening test scores will
       <td><a href="#">[paper]</a></td>
       <td>0.1320</td>
       <td>0.2450</td>
-      <td>0</td>
+   
     </tr>
 
     <tr>
@@ -152,7 +153,7 @@ Please make this clear if quoting them. The finalised listening test scores will
       <td><a href="#">[paper]</a></td>
       <td>0.2355</td>
       <td>0.2754</td>
-      <td>0</td>
+    
     </tr>
 
     <tr>
@@ -161,7 +162,7 @@ Please make this clear if quoting them. The finalised listening test scores will
       <td><a href="#">[paper]</a></td>
       <td>0.4211</td>
       <td>0.4396</td>
-      <td>0</td>
+
     </tr>
 
     <tr>
@@ -170,7 +171,7 @@ Please make this clear if quoting them. The finalised listening test scores will
       <td><a href="#">[paper]</a></td>
       <td>0.1951</td>
       <td>0.2174</td>
-      <td>0</td>
+
     </tr>
 
 
