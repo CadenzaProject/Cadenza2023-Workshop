@@ -7,68 +7,32 @@ Cadenza-2023 will be a one-day online workshop.
 
 <p>Programme will be available soon</p>
 
-[//]: # (The morning will focus on <b>hearing aid speech intelligibility prediction</b> and will present the outcomes 2nd Clarity Prediction Challenge. The afternoon will focus on <b>hearing aid speech enhancement</b> including a presentation of plans for 3rd Clarity Enhancement Challenge.)
+<div class="panel panel-default">
+<div class="panel-body">
+<div class="card  m-3">
+<div class="card-body">
+<table style="margin-left: 1em;">
+<tbody>
+    <tr> <td>GMT</td>    <td>US East</td>  <td>Taipei</td>   <td></td>   </tr>
+    <tr> <td>12:00</td>  <td>07:00</td>    <td>20:00</td>    <td>Welcome</td></tr>
+    <tr> <td>12:10</td>  <td>07:10</td>    <td>20:10</td>    <td><a href="#keynote1">Invited Talk</a></td> </tr>
+    <tr> <td>12:40</td>  <td>07:40</td>    <td>20:40</td>    <td>Cadenza 1 - Overview / Results</td> </tr>
+    <tr> <td>13:10</td>  <td>08:10</td>    <td>21:10</td>    <td>Break</td> </tr>
+    <tr> <td>13:20</td>  <td>08:20</td>    <td>21:20</td>    <td>Challenge papers</td> </tr>
+    <tr> <td>14:10</td>  <td>09:20</td>    <td>22:20</td>    <td>Break</td> </tr>
+    <tr> <td>14:30</td>  <td>09:30</td>    <td>22:30</td>    <td>Cadenza Team Submissions</td> </tr>
+    <tr> <td>15:00</td>  <td>10:00</td>    <td>23:00</td>    <td>Invited Talk</td> </tr>
+    <tr> <td>15:30</td>  <td>10:30</td>    <td>23:30</td>    <td>Future Challenges</td> </tr>
+    <tr> <td>15:50</td>  <td>10:50</td>    <td>23:50</td>    <td>Closing Discussion</td> </tr>
+    <tr> <td>16:00</td>  <td>11:00</td>    <td>24:00</td>    <td>Close</td> </tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
 
-[//]: # ()
-[//]: # (All sessions will be in the McNabb Lecture Theatre, which is downstairs from the main reception. The first session will start at 9:00am, please arrive in good time to collect your name badge.)
 
-[//]: # ()
-[//]: # (Timings and session details are provided below. All times are in Dublin local time &#40;UTC+1&#41;.)
-
-[//]: # ()
-[//]: # (<div class="panel panel-default">)
-
-[//]: # (<div class="panel-body">)
-
-[//]: # ()
-[//]: # (<div class="card  m-3">)
-
-[//]: # ()
-[//]: # (<div class="card-body">)
-
-[//]: # ()
-[//]: # (<table style="margin-left: 1em;">)
-
-[//]: # (<tbody>)
-
-[//]: # (<tr><td width=50px >9:00</td><td>Welcome</td></tr>)
-
-[//]: # (<tr><td>9:10</td><td><a href="#keynote1">Keynote 1</a> - Theme: Intelligibility Prediction - Fei Chen &#40;SUSTech&#41; </td> </tr>)
-
-[//]: # (<tr><td>10:00</td><td>The Clarity Prediction Challenge Overview </td></tr>)
-
-[//]: # (<tr><td>10:20</td><td>Break - Coffee/Tea</td></tr>)
-
-[//]: # (<tr><td>10:40</td><td><a href="#CPC2">Clarity Prediction Challenge Systems</a></td></tr>)
-
-[//]: # (<tr><td>12:40</td><td>Prizes and conclusions </td> </tr>)
-
-[//]: # (<tr><td>12:50</td><td>Lunch</td></tr>)
-
-[//]: # (<tr><td>13:30</td><td>Hearing Aid Speech Enhancement - A user's perspective</td></tr>)
-
-[//]: # (<tr><td>13:50</td><td><a href="#keynote2">Keynote 2</a> - Theme: Speech Enhancement - DeLiang Wang &#40;Ohio State University&#41; </td> </tr>)
-
-[//]: # (<tr><td>14:50</td><td>Plans for the 3rd Clarity Enhancement Challenge</td></tr>)
-
-[//]: # (<tr><td>15:10</td><td>Discussion</td></tr>)
-
-[//]: # (<tr><td>15:30</td><td>Break - Coffee/Tea</td></tr>)
-
-[//]: # (<tr><td>15:50</td><td><a href="#invited">Hearing Aid Speech Enhancement - Invited Talks</a></td></tr>)
-
-[//]: # (<tr><td>17:30</td><td>Close</td></tr>)
-
-[//]: # ()
-[//]: # (</tbody>)
-
-[//]: # (</table>)
-
-[//]: # (</div>)
-
-[//]: # (</div>)
-
-[//]: # ()
 [//]: # (<h1>Keynote 1</h1>)
 
 [//]: # ()
