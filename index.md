@@ -15,7 +15,11 @@ title: Improving music listening for those with hearing impairment (Cadenza-2023
       <button class="btn btn-primary">Click here to register me for the Clarity 2023 Workshop!</button>
     </a> -->
 
-We are now pleased to announce the 1st Cadenza Workshop for Machine Learning Challenges for improving music listening for people with hearing impairment.
+<p>
+We are now pleased to announce the 1st Cadenza Workshop for Machine Learning Challenges to Improve Music Listening for People with a Hearing Impairment.
+This will be a four-hour online event taking place on the 8th of December, starting at 12:00 GMT (07:00 US East / 20:00 Taipei Time). 
+The registration is free.
+</p>
 
 <h2>About</h2>
 
@@ -32,19 +36,6 @@ the first ever machine learning challenge targeted to improve music for those wi
 The challenge was launched on March 2023, presenting two tracks: listening to music using headphones and, listening to music in a car.
 </p>
 
-<!--
-    <h2>Topics</h2>
-    
-    <p>Any work related to the challenges of hearing aid signal processing will be considered relevant topics include,</p>
-    
-    <ul>
-    <li>Binaural technology for causal and non-causal music source separation</li>
-    <li>Real-time approaches to intelligent remixes</li>
-    <li>Statistical model-driven approaches to hearing aid processing</li>
-    <li>Machine learning for diverse target listeners</li>
-    <li>Machine learning models of hearing impairment</li>
-    </ul>
--->
 
 </div>
 
