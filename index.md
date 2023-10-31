@@ -37,6 +37,10 @@ The challenge was launched on March 2023, presenting two tracks: listening to mu
 </p>
 
 
+<p>
+Our current live challenge is <a href="https://cadenzachallenge.org/docs/icassp_2024/intro">Cadenza ICASSP SP 2024</a>.
+</p>
+
 </div>
 
 <div class="col-md-3" style="background:#FFF; margin:0px 0px 0px 0px">
