@@ -3,6 +3,12 @@
 
   {%- include head.html -%}
 
+  {% raw %}{% if jekyll.environment == 'production' and site.google_analytics %}
+  {% include analytics.html %}
+  {% endif %}{% endraw %}
+
+  {%- include footer.html -%}
+
   <body>
 
     {%- include header.html -%}
@@ -13,11 +19,7 @@
       </div>
     </div>
 
-    {% raw %}{% if jekyll.environment == 'production' and site.google_analytics %}
-    {% include analytics.html %}
-    {% endif %}{% endraw %}
 
-    {%- include footer.html -%}
 
   </body>
 
