@@ -39,7 +39,7 @@ Cadenza-2023 will be a one-day online workshop.
     <div class="card-header">
         <div class="row  align-items-center">   
             <div class="col-sm-3">
-                <img src="/assets/images/JReiss.jpg" alt="Joshua Reiss" class="float-left rounded-circle" style="width:100%" />
+                <img src="/cadenza2023-workshop/assets/images/JReiss.jpg" alt="Joshua Reiss" class="float-left rounded-circle" style="width:100%" />
             </div>
             <div class="col-sm-9">
                 <h1 class="lead">Joshua Reiss <div class="text-muted">Centre for Digital Music at Queen Mary University of London, UK</div></h1>
