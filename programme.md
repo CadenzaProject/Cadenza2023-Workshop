@@ -13,18 +13,18 @@ Cadenza-2023 will be a one-day online workshop.
 <div class="card-body">
 <table style="margin-left: 1em;">
 <tbody>
-    <tr> <td>GMT</td>    <td>US East</td>  <td>Taipei</td>   <td></td>   </tr>
-    <tr> <td>12:00</td>  <td>07:00</td>    <td>20:00</td>    <td>Welcome</td></tr>
-    <tr> <td>12:10</td>  <td>07:10</td>    <td>20:10</td>    <td><a href="#keynote1">Invited Talk</a></td> </tr>
-    <tr> <td>12:40</td>  <td>07:40</td>    <td>20:40</td>    <td>Cadenza 1 - Overview / Results</td> </tr>
-    <tr> <td>13:10</td>  <td>08:10</td>    <td>21:10</td>    <td>Break</td> </tr>
-    <tr> <td>13:20</td>  <td>08:20</td>    <td>21:20</td>    <td>Challenge papers</td> </tr>
-    <tr> <td>14:10</td>  <td>09:20</td>    <td>22:20</td>    <td>Break</td> </tr>
-    <tr> <td>14:30</td>  <td>09:30</td>    <td>22:30</td>    <td>Cadenza Team Submissions</td> </tr>
-    <tr> <td>15:00</td>  <td>10:00</td>    <td>23:00</td>    <td>Invited Talk</td> </tr>
-    <tr> <td>15:30</td>  <td>10:30</td>    <td>23:30</td>    <td>Future Challenges</td> </tr>
-    <tr> <td>15:50</td>  <td>10:50</td>    <td>23:50</td>    <td>Closing Discussion</td> </tr>
-    <tr> <td>16:00</td>  <td>11:00</td>    <td>24:00</td>    <td>Close</td> </tr>
+    <tr> <td>GMT   </td>  <td>US East </td>    <td>Taipei </td>   <td></td>   </tr>
+    <tr> <td>12:00 </td>  <td>07:00   </td>    <td>20:00  </td>    <td>Welcome</td></tr>
+    <tr> <td>12:10 </td>  <td>07:10   </td>    <td>20:10  </td>    <td><a href="#keynote1">Invited Talk</a></td> </tr>
+    <tr> <td>12:40 </td>  <td>07:40   </td>    <td>20:40  </td>    <td>Cadenza 1 - Overview / Results</td> </tr>
+    <tr> <td>13:10 </td>  <td>08:10   </td>    <td>21:10  </td>    <td>Break</td> </tr>
+    <tr> <td>13:20 </td>  <td>08:20   </td>    <td>21:20  </td>    <td>Challenge papers</td> </tr>
+    <tr> <td>14:10 </td>  <td>09:20   </td>    <td>22:20  </td>    <td>Break</td> </tr>
+    <tr> <td>14:30 </td>  <td>09:30   </td>    <td>22:30  </td>    <td>Cadenza Team Submissions</td> </tr>
+    <tr> <td>15:00 </td>  <td>10:00   </td>    <td>23:00  </td>    <td>Invited Talk</td> </tr>
+    <tr> <td>15:30 </td>  <td>10:30   </td>    <td>23:30  </td>    <td>Future Challenges</td> </tr>
+    <tr> <td>15:50 </td>  <td>10:50   </td>    <td>23:50  </td>    <td>Closing Discussion</td> </tr>
+    <tr> <td>16:00 </td>  <td>11:00   </td>    <td>24:00  </td>    <td>Close</td> </tr>
 </tbody>
 </table>
 </div>
@@ -64,6 +64,8 @@ Cadenza-2023 will be a one-day online workshop.
             </div>
         </div>
     </div>
+</div>
+</div>
 </div>
 
 
