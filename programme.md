@@ -44,11 +44,11 @@ Cadenza-2023 will be a one-day online workshop.
             <div class="col-sm-9">
                 <h1 class="lead">Joshua Reiss <div class="text-muted">Centre for Digital Music at Queen Mary University of London, UK</div></h1>
                 <h1>Intelligent mixing for the hearing impaired</h1>
-                <button class="btn btn-primary" style="color:white; margin: 10px; border-radius: 4px;" type="button" data-toggle="collapse" data-target="#collapseAbstractChen" aria-expanded="false" aria-controls="collapseAbstractChen">
+                <button class="btn btn-primary" style="color:white; margin: 10px; border-radius: 4px;" type="button" data-toggle="collapse" data-target="#collapseAbstractReiss" aria-expanded="false" aria-controls="collapseAbstractReiss">
                 Abstract and Bio
                 </button>
             </div>
-            <div class="collapse" id="collapseAbstractChen">
+            <div class="collapse" id="collapseAbstractReiss">
                 <div class="card-body">
                 <h1 class="card-title">Intelligent mixing for the hearing impaired</h1>
                 <h3>Abstract</h3>
