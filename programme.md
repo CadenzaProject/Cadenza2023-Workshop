@@ -13,7 +13,7 @@ Cadenza-2023 will be a one-day online workshop.
 <div class="card-body">
 <table style="margin-left: 1em;">
 <tbody>
-    <tr> <td>GMT   </td>  <td>US East </td>    <td>Taipei </td>   <td></td>   </tr>
+    <tr> <td>GMT&nbsp;&nbsp;&nbsp;</td>  <td>US East&nbsp;</td>    <td>Taipei&nbsp;</td>   <td></td>   </tr>
     <tr> <td>12:00 </td>  <td>07:00   </td>    <td>20:00  </td>    <td>Welcome</td></tr>
     <tr> <td>12:10 </td>  <td>07:10   </td>    <td>20:10  </td>    <td><a href="#keynote1">Invited Talk</a></td> </tr>
     <tr> <td>12:40 </td>  <td>07:40   </td>    <td>20:40  </td>    <td>Cadenza 1 - Overview / Results</td> </tr>
@@ -64,8 +64,6 @@ Cadenza-2023 will be a one-day online workshop.
             </div>
         </div>
     </div>
-</div>
-</div>
 </div>
 
 
