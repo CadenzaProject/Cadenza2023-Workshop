@@ -33,77 +33,39 @@ Cadenza-2023 will be a one-day online workshop.
 </div>
 
 
-[//]: # (<h1>Keynote 1</h1>)
+<h1>Keynote 1</h1>
+<div class="card m-3">
+    <a name="keynote1"></a>
+    <div class="card-header">
+        <div class="row  align-items-center">   
+            <div class="col-sm-3">
+                <img src="/assets/images/JReiss.jpg" alt="Joshua Reiss" class="float-left rounded-circle" style="width:100%" />
+            </div>
+            <div class="col-sm-9">
+                <h1 class="lead">Joshua Reiss <div class="text-muted">Centre for Digital Music at Queen Mary University of London, UK</div></h1>
+                <h1>Intelligent mixing for the hearing impaired</h1>
+                <button class="btn btn-primary" style="color:white; margin: 10px; border-radius: 4px;" type="button" data-toggle="collapse" data-target="#collapseAbstractChen" aria-expanded="false" aria-controls="collapseAbstractChen">
+                Abstract and Bio
+                </button>
+            </div>
+            <div class="collapse" id="collapseAbstractChen">
+                <div class="card-body">
+                <h1 class="card-title">Intelligent mixing for the hearing impaired</h1>
+                <h3>Abstract</h3>
+                <p>Hearing aids are limited in how they can address the enjoyment of produced audio content, partly due to the fact that they can only apply processing on the mixed content received by the listener. However, music and broadcast content may be distributed as multitracks, where individual sources or groups of sources are stored separately, allowing for them to be remixed for different situations. In particular, they may be mixed for a given listener hearing profile. Furthermore, hearing loss simulators allow one to establish the profile of hearing impaired listeners. In this talk, we will discuss recent attempts to automatically re-mix multitrack music content such that the new content, when passed through a hearing loss simulator, will sound as close as possible to how the original mix sounds to normal hearing listeners. The focus here is not on the de-mixing or presence of noise aspects of recent Cadenza challenges, but the potential scenarios that arise when high quality multitracks can be accessed. We will also discuss the challenges in this area of research, and the opportunities for delivering far superior and customised audio content for listeners with hearing impairments.</p>
+            
+                <h3>Bio</h3>
+                <p>Joshua Reiss is Professor of Audio Engineering with the Centre for Digital Music at Queen Mary University of London. He has published more than 200 scientific papers (including over 50 in premier journals and 7 best paper awards) and co-authored three books. His research has been featured in dozens of original articles and interviews on TV, radio, and in the press. He is a Fellow and Past President of the Audio Engineering Society, and chair of their Publications Policy Committee. He co-founded the highly successful spin-out company, LandR, and recently co-founded Waveshaper AI, RoEx and Nemisindo, also based on his team’s research. He maintains a popular blog, YouTube channel, and Twitter feed for scientific education and dissemination of research activities.</p>
+            
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
-[//]: # ()
-[//]: # (<div class="card m-3">)
 
-[//]: # (  <a name="keynote1"></a>)
 
-[//]: # ()
-[//]: # (<div class="card-header">)
 
-[//]: # (<div class="row  align-items-center">)
-
-[//]: # ()
-[//]: # (<div class="col-sm-3">)
-
-[//]: # (<img src="/clarity2023-workshop/assets/images/fei_chen.png" alt="Fei Chen" class="float-left rounded-circle" style="width:100%" />)
-
-[//]: # (</div>)
-
-[//]: # ()
-[//]: # (<div class="col-sm-9">)
-
-[//]: # (<h1 class="lead">Fei Chen <div class="text-muted">SUSTech, China</div></h1>)
-
-[//]: # ()
-[//]: # (<h1>Objective speech intelligibility prediction: Insights from human speech perception</h1>)
-
-[//]: # ()
-[//]: # (<button class="btn btn-primary" style="color:white; margin: 10px; border-radius: 4px;" type="button" data-toggle="collapse" data-target="#collapseAbstractChen" aria-expanded="false" aria-controls="collapseAbstractChen">)
-
-[//]: # (    Abstract and Bio)
-
-[//]: # (  </button>)
-
-[//]: # ()
-[//]: # (</div>)
-
-[//]: # ()
-[//]: # (<div class="collapse" id="collapseAbstractChen">)
-
-[//]: # ()
-[//]: # (<div class="card-body">)
-
-[//]: # (<h1 class="card-title">Objective speech intelligibility prediction: Insights from human speech perception</h1>)
-
-[//]: # ()
-[//]: # (<h3>Abstract</h3>)
-
-[//]: # ()
-[//]: # (<p>Speech intelligibility assessment plays an important role in speech and hearing studies. Designing a computational speech intelligibility model can significantly facilitate our studies, e.g., speech enhancement and speech coding. While many objective speech intelligibility prediction models are available, there are still challenges towards improving the prediction performance of intelligibility indices. Human speech perception studies provide us not only knowledge on various &#40;e.g., acoustic, linguistic&#41; impacts on speech understanding in different listening environments, but also insights on design a reliable objective intelligibility prediction index. In this talk, I will first introduce studies on important acoustic cues on human speech perception. Then, I will review the design of some existing intelligibility prediction models and efforts to improve their prediction power. Finally, I will briefly introduce new developments towards objective speech intelligibility prediction, e.g., machine learning and neurophysiological measurement methods.</p>)
-
-[//]: # ()
-[//]: # (<h3>Bio</h3>)
-
-[//]: # ()
-[//]: # (<p>Fei Chen &#40;Senior Member, IEEE&#41; received the B.Sc. and M.Phil. degrees from the Department of Electronic Science and Engineering, Nanjing University, Nanjing, China, in 1998 and 2001, respectively, and the Ph.D. degree from Department of Electronic Engineering, The Chinese University of Hong Kong, Hong Kong, in 2005. He continued his research as Postdoctor and Senior Research Fellow with the University of Texas at Dallas, supervised by Prof. Philipos Loizou, and The University of Hong Kong, Hong Kong. He is currently a Full Professor with the Department of Electrical and Electronic Engineering, Southern University of Science and Technology &#40;SUSTech&#41;, Shenzhen, China. Dr. Chen is leading the speech and physiological signal processing Research Group in SUSTech. He has authored or coauthored more than 100 journal papers and more than 100 conference papers in IEEE journals/conferences, Interspeech, Journal of Acoustical Society of America. His research interests include speech communication and assistive hearing technologies, brain-computer interface, and biomedical signal processing. He was tutorial speaker of Interspeech2022, Interspeech2020, EUSIPCO2022, APSIPA2021, and APSIPA2019, and organized special session Signal processing for assistive hearing devices at ICASSP2015. Dr. Chen is an APSIPA distinguished Lecturer &#40;2022-2023&#41;, and is currently an Associate Editor for Biomedical Signal Processing and Control and Frontiers in Human Neuroscience.</p>)
-
-[//]: # (</div>)
-
-[//]: # ()
-[//]: # (</div>)
-
-[//]: # ()
-[//]: # (</div>)
-
-[//]: # ()
-[//]: # (</div>)
-
-[//]: # (</div>)
-
-[//]: # ()
 [//]: # (<a name="CPC2"></a>)
 
 [//]: # ()
