@@ -123,7 +123,10 @@ Cadenza-2023 will be a one-day online workshop.
 <div class="card  m-3">
     <div class="card-body">
         <table>
-            
+            <tbody>
+                <div style="margin-bottom: 1em;">Session chair: <i>TBC</i></div>
+                    
+            </tbody>
         </table>
     </div>
 </div>
