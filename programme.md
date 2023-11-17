@@ -125,7 +125,7 @@ Cadenza-2023 will be a one-day online workshop.
     <div class="card-body">
         <table>
             <tbody>
-                <div style="margin-bottom: 1em;">Session chair: <i>TBC</i></div>
+                <!--<div style="margin-bottom: 1em;">Session chair: <i>TBC</i></div>-->
                     <tr>
                         <td width=100px valign="top">15:00-15:20</td><td style="padding-bottom: 1em;"><b> Developmental of Musical Scene Analysis Test </b><br /> <span class="author"><a href="#wong">Robin Hake</a></span> <i>&#40;University of Oldenburg, Germany&#41;</i></td>)
                     </tr>
