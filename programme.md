@@ -86,7 +86,7 @@ Cadenza-2023 will be a one-day online workshop.
             <tbody>
                 <div style="margin-bottom: 1em;">Session chair: <i>TBC</i></div>
                 <tr>
-                    <td width=100px valign="top">13:20-13:35</td><td style="padding-bottom: 1em;"><b> Better Music Demixing with the sliCQ Transform</b> <a href="">[Paper]</a> <br /> <span class="author">Sevag Hanssian</span><i> (Independent researcher (sevag.xyz), Montréal, Canada)</i></td>
+                    <td width=100px valign="top">13:20-13:35</td><td style="padding-bottom: 1em;"><b> Better Music Demixing with the sliCQ Transform</b> <a href="">[Paper]</a> <br /> <span class="author">Sevag Hanssian</span><i> (Montréal, Canada)</i></td>
                 </tr>
                 
                 <tr>
