@@ -21,8 +21,8 @@ Cadenza-2023 will be a one-day online workshop.
     <tr> <td>13:20 </td>  <td>08:20   </td>    <td>21:20  </td>    <td>Challenge papers</td> </tr>
     <tr> <td>14:20 </td>  <td>09:20   </td>    <td>22:20  </td>    <td>Break</td> </tr>
     <tr> <td>14:30 </td>  <td>09:30   </td>    <td>22:30  </td>    <td>Cadenza Team Submissions</td> </tr>
-    <tr> <td>15:00 </td>  <td>10:00   </td>    <td>23:00  </td>    <td><a href="#invited1">Invited Talk 1</td> </tr>
-    <tr> <td>15:20 </td>  <td>10:20   </td>    <td>23:20  </td>    <td><a href="#invited1">Invited Talk 2</td> </tr>
+    <tr> <td>15:00 </td>  <td>10:00   </td>    <td>23:00  </td>    <td><a href="#invited1">Invited Talk 1</a></td> </tr>
+    <tr> <td>15:20 </td>  <td>10:20   </td>    <td>23:20  </td>    <td><a href="#invited1">Invited Talk 2</a></td> </tr>
     <tr> <td>15:40 </td>  <td>10:40   </td>    <td>23:40  </td>    <td>Future Challenges</td> </tr>
     <tr> <td>16:00 </td>  <td>11:00   </td>    <td>24:00  </td>    <td>Close</td> </tr>
 </tbody>
@@ -118,7 +118,6 @@ Cadenza-2023 will be a one-day online workshop.
 </div>
 
 <a name="invited1"></a>
-
 
 <h1>Invited talks</h1>
 <div class="card  m-3">
