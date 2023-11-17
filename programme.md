@@ -15,14 +15,14 @@ Cadenza-2023 will be a one-day online workshop.
 <tbody>
     <tr> <td>GMT&nbsp;&nbsp;&nbsp;</td>  <td>US East&nbsp;</td>    <td>Taipei&nbsp;</td>   <td></td>   </tr>
     <tr> <td>12:00 </td>  <td>07:00   </td>    <td>20:00  </td>    <td>Welcome</td></tr>
-    <tr> <td>12:10 </td>  <td>07:10   </td>    <td>20:10  </td>    <td><a href="#keynote1">Invited Talk</a></td> </tr>
+    <tr> <td>12:10 </td>  <td>07:10   </td>    <td>20:10  </td>    <td><a href="#keynote1">Keynote 1</a></td> </tr>
     <tr> <td>12:40 </td>  <td>07:40   </td>    <td>20:40  </td>    <td>Cadenza 1 - Overview / Results</td> </tr>
     <tr> <td>13:10 </td>  <td>08:10   </td>    <td>21:10  </td>    <td>Break</td> </tr>
     <tr> <td>13:20 </td>  <td>08:20   </td>    <td>21:20  </td>    <td>Challenge papers</td> </tr>
     <tr> <td>14:20 </td>  <td>09:20   </td>    <td>22:20  </td>    <td>Break</td> </tr>
     <tr> <td>14:30 </td>  <td>09:30   </td>    <td>22:30  </td>    <td>Cadenza Team Submissions</td> </tr>
-    <tr> <td>15:00 </td>  <td>10:00   </td>    <td>23:00  </td>    <td>Invited Talk 1</td> </tr>
-    <tr> <td>15:20 </td>  <td>10:20   </td>    <td>23:20  </td>    <td>Invited Talk 2</td> </tr>
+    <tr> <td>15:00 </td>  <td>10:00   </td>    <td>23:00  </td>    <td><a href="#invited1">Invited Talk 1</td> </tr>
+    <tr> <td>15:20 </td>  <td>10:20   </td>    <td>23:20  </td>    <td><a href="#invited1">Invited Talk 2</td> </tr>
     <tr> <td>15:40 </td>  <td>10:40   </td>    <td>23:40  </td>    <td>Future Challenges</td> </tr>
     <tr> <td>16:00 </td>  <td>11:00   </td>    <td>24:00  </td>    <td>Close</td> </tr>
 </tbody>
@@ -125,7 +125,7 @@ Cadenza-2023 will be a one-day online workshop.
     <div class="card-body">
         <table>
             <tbody>
-                <!--<div style="margin-bottom: 1em;">Session chair: <i>TBC</i></div>-->
+                <div style="margin-bottom: 1em;">Session chair: <i>TBC</i></div>
                     <tr>
                         <td width=100px valign="top">15:00-15:20</td><td style="padding-bottom: 1em;"><b> Developmental of Musical Scene Analysis Test </b><br /> <span class="author"><a href="#wong">Robin Hake</a></span> <i>&#40;University of Oldenburg, Germany&#41;</i></td>)
                     </tr>
