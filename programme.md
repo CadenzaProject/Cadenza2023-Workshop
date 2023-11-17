@@ -126,9 +126,11 @@ Cadenza-2023 will be a one-day online workshop.
             <tbody>
                 <div style="margin-bottom: 1em;">Session chair: <i>TBC</i></div>
                     <tr>
-                        <td width=100px valign="top">15:00-15:20</td><td style="padding-bottom: 1em;"><b> Developmental of Musical Scene Analysis Test </b><br /> <span class="author"><a href="#wong">Robin Hake</a></span> <i>&#40;University of Oldenburg, Germany&#41;</i></td>)
+                        <td width=100px valign="top">15:00-15:20</td><td style="padding-bottom: 1em;"><b> Developmental of Musical Scene Analysis Test </b><br /> <span class="author"><a href=""> Robin Hake</a></span> <i>&#40;University of Oldenburg, Germany&#41;</i></td>
                     </tr>
-                    
+                    <tr>
+                        <td width=100px valign="top">15:20-15:40</td><td style="padding-bottom: 1em;"><b> Mixing transforms for HI listeners </b><br /> <span class="author"><a href=""> Aravindan Benjamin</a></span> <i>&#40;University of Oldenburg, Germany&#41;</i></td>
+                    </tr>
             </tbody>
         </table>
     </div>
