@@ -149,30 +149,31 @@ Cadenza-2023 will be a one-day online workshop.
                 <img src="/cadenza2023-workshop/assets/images/empty_pic.png" alt="Katherine Phipps" class="float-left rounded-circle" style="width:100%" />
             </div>
             <div class="col-sm-9">
-                <h1 class="lead">Katherine Phipps <div class="text-muted">..</div></h1>
+                <h1 class="lead">Katherine Phipps <div class="text-muted"></div></h1>
                 <h1>Who, Where, When, Why, What and How of listening to music via hearing aids</h1>
-                <!--
+                
                 <button class="btn btn-primary" style="color:white; margin: 10px; border-radius: 4px;" type="button" data-toggle="collapse" data-target="#collapseAbstractKath" aria-expanded="false" aria-controls="collapseAbstractKath">
                 Abstract and Bio
                 </button>
-                -->
+                
             </div>
-            <!--
+            
             <div class="collapse" id="collapseAbstractKath">
                 <div class="card-body">
                 <h1 class="card-title">Who, Where, When, Why, What and How of listening to music via hearing aids</h1>
-
+                
+                <!--
                 <h3>Abstract</h3>
 
-                <p>.</p>
-            
+                <p></p>
+                -->
                 <h3>Bio</h3>
 
-                <p>.</p>
+                <p>Katherine became severely – profoundly deafened in her late teens, and was the first person in Scotland to get digital hearing aids on the NHS. She has over 25 years of experience working in voluntary and public sector organisations, mainly in the field of deafness and disability.  She was a director at RNID, Vice Chair at United Kingdom Council on Deafness (UKCoD), and a board member of the National Register for Communication Professionals for Deaf and Deafblind People (NRCPD). She has an MSc in Inclusive Environments: Design & Management and is a qualified Access Consultant.</p>
             
                 </div>
             </div>
-            -->
+            
         </div>
     </div>
 </div>
