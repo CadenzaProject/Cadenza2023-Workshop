@@ -183,7 +183,7 @@ Cadenza-2023 will be a one-day online workshop.
                 <img src="/cadenza2023-workshop/assets/images/robin_hakes.jpg" alt="Robin Hake " class="float-left rounded-circle" style="width:100%" />
             </div>
             <div class="col-sm-9">
-                <h1 class="lead">Robin Hake <div class="text-muted">..</div></h1>
+                <h1 class="lead">Robin Hake <div class="text-muted">Universit&#228;t Oldenburg, Germany</div></h1>
                 <h1> Developmental of Musical Scene Analysis Test</h1>
                 <button class="btn btn-primary" style="color:white; margin: 10px; border-radius: 4px;" type="button" data-toggle="collapse" data-target="#collapseAbstractRobin" aria-expanded="false" aria-controls="collapseAbstractRobin">
                 Abstract and Bio
@@ -217,7 +217,7 @@ Cadenza-2023 will be a one-day online workshop.
                 <img src="/cadenza2023-workshop/assets/images/aravinda_benjamin.jpg" alt="Aravindan Benjamin " class="float-left rounded-circle" style="width:100%" />
             </div>
             <div class="col-sm-9">
-                <h1 class="lead">Aravindan Benjamin <div class="text-muted">..</div></h1>
+                <h1 class="lead">Aravindan Benjamin <div class="text-muted">Universit&#228;t Oldenburg, Germany</div></h1>
                 <h1> Mixing transforms for HI listeners</h1>
                 <button class="btn btn-primary" style="color:white; margin: 10px; border-radius: 4px;" type="button" data-toggle="collapse" data-target="#collapseAbstractAravindan" aria-expanded="false" aria-controls="collapseAbstractAravindan">
                 Abstract and Bio
