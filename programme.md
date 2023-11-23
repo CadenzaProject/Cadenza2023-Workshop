@@ -128,9 +128,11 @@ Cadenza-2023 will be a one-day online workshop.
                         <td width=100px valign="top">15:00-15:15</td>
                         <td style="padding-bottom: 1em;"><b> Who, Where, When, Why, What and How of listening to music via hearing aids </b><br /> <span class="author"><a href=""> Katherine Phipps</a></span> </td>
                     </tr>
+
                     <tr>
                         <td width=100px valign="top">15:15-15:35</td><td style="padding-bottom: 1em;"><b> Developmental of Musical Scene Analysis Test </b><br /> <span class="author"><a href=""> Robin Hake</a></span> <i>&#40;Universit&#228;t Oldenburg, Germany&#41;</i></td>
                     </tr>
+
                     <tr>
                         <td width=100px valign="top">15:35-15:55</td><td style="padding-bottom: 1em;"><b> Mixing transforms for HI listeners </b><br /> <span class="author"><a href=""> Aravindan Benjamin</a></span> <i>&#40;Universit&#228;t Oldenburg, Germany&#41;</i></td>
                     </tr>
@@ -153,3 +155,33 @@ Cadenza-2023 will be a one-day online workshop.
     </div>
 </div>
 <br/>
+
+
+<div class="card-header">
+        <div class="row  align-items-center">   
+            <div class="col-sm-3">
+                <img src="/cadenza2023-workshop/assets/images/JReiss.jpg" alt="Joshua Reiss" class="float-left rounded-circle" style="width:100%" />
+            </div>
+            <div class="col-sm-9">
+                <h1 class="lead">Joshua Reiss <div class="text-muted">Centre for Digital Music at Queen Mary University of London, UK</div></h1>
+                <h1>Intelligent mixing for the hearing impaired</h1>
+                <button class="btn btn-primary" style="color:white; margin: 10px; border-radius: 4px;" type="button" data-toggle="collapse" data-target="#collapseAbstractReiss" aria-expanded="false" aria-controls="collapseAbstractReiss">
+                Abstract and Bio
+                </button>
+            </div>
+            <div class="collapse" id="collapseAbstractReiss">
+                <div class="card-body">
+                <h1 class="card-title">Intelligent mixing for the hearing impaired</h1>
+
+                <h3>Abstract</h3>
+
+                <p>Hearing aids are limited in how they can address the enjoyment of produced audio content, partly due to the fact that they can only apply processing on the mixed content received by the listener. However, music and broadcast content may be distributed as multitracks, where individual sources or groups of sources are stored separately, allowing for them to be remixed for different situations. In particular, they may be mixed for a given listener hearing profile. Furthermore, hearing loss simulators allow one to establish the profile of hearing impaired listeners. In this talk, we will discuss recent attempts to automatically re-mix multitrack music content such that the new content, when passed through a hearing loss simulator, will sound as close as possible to how the original mix sounds to normal hearing listeners. The focus here is not on the de-mixing or presence of noise aspects of recent Cadenza challenges, but the potential scenarios that arise when high quality multitracks can be accessed. We will also discuss the challenges in this area of research, and the opportunities for delivering far superior and customised audio content for listeners with hearing impairments.</p>
+            
+                <h3>Bio</h3>
+
+                <p>Joshua Reiss is Professor of Audio Engineering with the Centre for Digital Music at Queen Mary University of London. He has published more than 200 scientific papers (including over 50 in premier journals and 7 best paper awards) and co-authored three books. His research has been featured in dozens of original articles and interviews on TV, radio, and in the press. He is a Fellow and Past President of the Audio Engineering Society, and chair of their Publications Policy Committee. He co-founded the highly successful spin-out company, LandR, and recently co-founded Waveshaper AI, RoEx and Nemisindo, also based on his team’s research. He maintains a popular blog, YouTube channel, and Twitter feed for scientific education and dissemination of research activities.</p>
+            
+                </div>
+            </div>
+        </div>
+    </div>
