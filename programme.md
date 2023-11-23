@@ -21,10 +21,9 @@ Cadenza-2023 will be a one-day online workshop.
     <tr> <td>13:20 </td>  <td>08:20   </td>    <td>21:20  </td>    <td>Challenge papers</td> </tr>
     <tr> <td>14:20 </td>  <td>09:20   </td>    <td>22:20  </td>    <td>Break</td> </tr>
     <tr> <td>14:30 </td>  <td>09:30   </td>    <td>22:30  </td>    <td>Cadenza Team Submissions</td> </tr>
-    <tr> <td>15:00 </td>  <td>10:00   </td>    <td>23:00  </td>    <td><a href="#invited1">Invited Talk 1</a></td> </tr>
-    <tr> <td>15:20 </td>  <td>10:20   </td>    <td>23:20  </td>    <td><a href="#invited1">Invited Talk 2</a></td> </tr>
-    <tr> <td>15:40 </td>  <td>10:40   </td>    <td>23:40  </td>    <td>Future Challenges</td> </tr>
-    <tr> <td>16:00 </td>  <td>11:00   </td>    <td>24:00  </td>    <td>Close</td> </tr>
+    <tr> <td>15:00 </td>  <td>10:00   </td>    <td>23:00  </td>    <td><a href="#invited1">Invited Talks</a></td> </tr>
+    <tr> <td>15:55 </td>  <td>10:55   </td>    <td>23:55  </td>    <td>Future Challenges</td> </tr>
+    <tr> <td>16:10 </td>  <td>11:10   </td>    <td>24:100  </td>    <td>Close</td> </tr>
 </tbody>
 </table>
 </div>
@@ -126,10 +125,14 @@ Cadenza-2023 will be a one-day online workshop.
             <tbody>
                 <div style="margin-bottom: 1em;">Session chair: <i>TBC</i></div>
                     <tr>
-                        <td width=100px valign="top">15:00-15:20</td><td style="padding-bottom: 1em;"><b> Developmental of Musical Scene Analysis Test </b><br /> <span class="author"><a href=""> Robin Hake</a></span> <i>&#40;Universit&#228;t Oldenburg, Germany&#41;</i></td>
+                        <td width=100px valign="top">15:00-15:15</td>
+                        <td style="padding-bottom: 1em;"><b> Who, Where, When, Why, What and How of listening to music via hearing aids </b><br /> <span class="author"><a href=""> Katherine Phipps</a></span> </td>
                     </tr>
                     <tr>
-                        <td width=100px valign="top">15:20-15:40</td><td style="padding-bottom: 1em;"><b> Mixing transforms for HI listeners </b><br /> <span class="author"><a href=""> Aravindan Benjamin</a></span> <i>&#40;Universit&#228;t Oldenburg, Germany&#41;</i></td>
+                        <td width=100px valign="top">15:15-15:35</td><td style="padding-bottom: 1em;"><b> Developmental of Musical Scene Analysis Test </b><br /> <span class="author"><a href=""> Robin Hake</a></span> <i>&#40;Universit&#228;t Oldenburg, Germany&#41;</i></td>
+                    </tr>
+                    <tr>
+                        <td width=100px valign="top">15:35-15:55</td><td style="padding-bottom: 1em;"><b> Mixing transforms for HI listeners </b><br /> <span class="author"><a href=""> Aravindan Benjamin</a></span> <i>&#40;Universit&#228;t Oldenburg, Germany&#41;</i></td>
                     </tr>
             </tbody>
         </table>
