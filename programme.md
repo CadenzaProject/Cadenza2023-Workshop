@@ -134,7 +134,7 @@ Cadenza-2023 will be a one-day online workshop.
                     </tr>
 
                     <tr>
-                        <td width=100px valign="top">15:35-15:55</td><td style="padding-bottom: 1em;"><b> Mixing transforms for HI listeners </b><br /> <span class="author"><a href=""> Aravindan Benjamin</a></span> <i>&#40;Universit&#228;t Oldenburg, Germany&#41;</i></td>
+                        <td width=100px valign="top">15:35-15:55</td><td style="padding-bottom: 1em;"><b> Mixing preferences of hearing-impaired listeners </b><br /> <span class="author"><a href=""> Aravindan Benjamin</a></span> <i>&#40;Universit&#228;t Oldenburg, Germany&#41;</i></td>
                     </tr>
             </tbody>
         </table>
@@ -167,6 +167,7 @@ Cadenza-2023 will be a one-day online workshop.
 
                 <p></p>
                 -->
+
                 <h3>Bio</h3>
 
                 <p>Katherine became severely – profoundly deafened in her late teens, and was the first person in Scotland to get digital hearing aids on the NHS. She has over 25 years of experience working in voluntary and public sector organisations, mainly in the field of deafness and disability.  She was a director at RNID, Vice Chair at United Kingdom Council on Deafness (UKCoD), and a board member of the National Register for Communication Professionals for Deaf and Deafblind People (NRCPD). She has an MSc in Inclusive Environments: Design & Management and is a qualified Access Consultant.</p>
@@ -223,29 +224,24 @@ Cadenza-2023 will be a one-day online workshop.
             </div>
             <div class="col-sm-9">
                 <h1 class="lead">Aravindan Benjamin <div class="text-muted">Universit&#228;t Oldenburg, Germany</div></h1>
-                <h1> Mixing transforms for HI listeners</h1>
-                <!--
+                <h1> Mixing preferences of hearing-impaired listeners</h1>
                 <button class="btn btn-primary" style="color:white; margin: 10px; border-radius: 4px;" type="button" data-toggle="collapse" data-target="#collapseAbstractAravindan" aria-expanded="false" aria-controls="collapseAbstractAravindan">
                 Abstract and Bio
                 </button>
-                -->
+                
             </div>
-            <!--
             <div class="collapse" id="collapseAbstractAravindan">
                 <div class="card-body">
-                <h1 class="card-title">Mixing transforms for HI listeners Test</h1>
+                <h1 class="card-title">Mixing preferences of hearing-impaired listeners</h1>
 
                 <h3>Abstract</h3>
-
-                <p>.</p>
+                <p>Multi-track mixing is an essential practice in modern music production. Several studies have investigated mixing preferences among normal hearing (NH) participants but relatively fewer studies consider hearing impaired (HI) participants. In this study, the subjective mixing preferences of NH and HI listeners was investigated with respect to lead-to-accompaniment level ratios and the low-high frequency spectral energy balance. Furthermore, preferences of transformed equalization were assessed, achieved by linearly extrapolating between the power spectrum of individual tracks and a reference spectrum. It was evident that increasing levels of hearing loss among the participants brought about higher preferences in enhanced vocal levels, larger weightings at higher frequencies (> 1 kHz), and transformed equalization yielding spectrally sparser mixes. To assess if spectrally sparser mixes would also increase mix transparency as measured with a task of musical scene analysis, an independent study was conducted. Results suggest that modifying mixes can make them more accessible to HI and also that sparser mixes may mitigate the depreciation of MSA performance brought on by hearing loss.</p>
             
                 <h3>Bio</h3>
+                <p>Aravindan Joseph Benjamin, an audio engineer by specialty, obtained a Bachelor of engineering degree in electronic and communication engineering at the Northumbria University in the United Kingdom and a Master of Science degree in electronic media technology at the Technical University of Ilmenau in Germany. His areas of expertise include: music signal processing, psychoacoustics, head-tracking-based dynamic binaural auralization of virtual room acoustics, algorithms for the simulation of virtual room acoustics, audio coding and compression, and electroacoustics. He is currently pursuing his doctorate in music processing for hearing impaired listeners at the music perception and processing laboratory at the Carl von Ossietzky University in Oldenburg. His research areas include pre-processing techniques in multi-track music for listeners with moderate hearing loss and the influence of frequency domain sparsity on music scene analysis abilities among such liseners.</p>
 
-                <p>.</p>
-            
                 </div>
             </div>
-            -->
         </div>
     </div>
 </div>
