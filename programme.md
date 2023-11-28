@@ -71,8 +71,9 @@ Cadenza-2023 will be a one-day online workshop.
     <div class="card-body">
         <table>
             <tbody>
+                <div style="margin-bottom: 1em;">Session chair: <i>Jennifer Firth</i></div>
                 <tr>
-                    <td width=100px valign="top">12:40-13:10</td><td style="padding-bottom: 1em;"><b> The First Cadenza Signal Processing Challenge</b> <a href="">[PDF]</a>  <span class="author">Michael A. Akeroyd<sup>1</sup>, Scott Bannister<sup>2</sup>, Jon Barker<sup>3</sup>, Trevor J. Cox<sup>4</sup>, Bruno Fazenda<sup>4</sup>, Jennifer Firth<sup>1</sup>, Simone Graetzer<sup>4</sup>, Alinka Greasle<sup>2</sup>, Gerardo Roa Dabike<sup>4</sup>, Rebecca Vos<sup>4</sup>, William Whitmer<sup>1</sup></span><i> &#40;<sup>1</sup>University of Nottingham; <sup>2</sup>University of Leeds; <sup>3</sup>University of Sheffield; <sup>4</sup>University of Salford&#41;</i></td>
+                    <td width=100px valign="top">12:40-13:10</td><td style="padding-bottom: 1em;"><b> The First Cadenza Signal Processing Challenge</b> <a href="">[PDF]</a>  <span class="author">Trevor J. Cox<sup>4</sup>, Michael A. Akeroyd<sup>1</sup>, Scott Bannister<sup>2</sup>, Jon Barker<sup>3</sup>, Bruno Fazenda<sup>4</sup>, Jennifer Firth<sup>1</sup>, Simone Graetzer<sup>4</sup>, Alinka Greasle<sup>2</sup>, Gerardo Roa Dabike<sup>4</sup>, Rebecca Vos<sup>4</sup>, William Whitmer<sup>1</sup></span><i> &#40;<sup>1</sup>University of Nottingham; <sup>2</sup>University of Leeds; <sup>3</sup>University of Sheffield; <sup>4</sup>University of Salford&#41;</i></td>
                 </tr> 
             </tbody>
         </table>
@@ -83,7 +84,7 @@ Cadenza-2023 will be a one-day online workshop.
     <div class="card-body">
         <table>
             <tbody>
-                <div style="margin-bottom: 1em;">Session chair: <i>TBC</i></div>
+                <div style="margin-bottom: 1em;">Session chair: <i>Scott Bannister</i></div>
                 <tr>
                     <td width=100px valign="top">13:20-13:35</td><td style="padding-bottom: 1em;"><b> Better Music Demixing with the sliCQ Transform</b> <a href="">[Paper]</a> <br /> <span class="author">Sevag Hanssian</span><i> (Montréal, Canada)</i></td>
                 </tr>
@@ -108,8 +109,9 @@ Cadenza-2023 will be a one-day online workshop.
     <div class="card-body">
         <table>
             <tbody>
+                <div style="margin-bottom: 1em;">Session chair: <i>Jennifer Firth</i></div>
                 <tr>
-                    <td width=100px valign="top">14:30-15:00</td><td style="padding-bottom: 1em;"><b> Cadenza Team Submissions</b> <a href="">[PDF]</a>  <span class="author">Michael A. Akeroyd<sup>1</sup>, Scott Bannister<sup>2</sup>, Jon Barker<sup>3</sup>, Trevor J. Cox<sup>4</sup>, Bruno Fazenda<sup>4</sup>, Jennifer Firth<sup>1</sup>, Simone Graetzer<sup>4</sup>, Alinka Greasle<sup>2</sup>, Gerardo Roa Dabike<sup>4</sup>, Rebecca Vos<sup>4</sup>, William Whitmer<sup>1</sup></span><i> &#40;<sup>1</sup>University of Nottingham; <sup>2</sup>University of Leeds; <sup>3</sup>University of Sheffield; <sup>4</sup>University of Salford&#41;</i></td>
+                    <td width=100px valign="top">14:30-15:00</td><td style="padding-bottom: 1em;"><b> Cadenza Team Submissions</b> <a href="">[PDF]</a>  <span class="author">Gerardo Roa Dabike<sup>4</sup>, Michael A. Akeroyd<sup>1</sup>, Scott Bannister<sup>2</sup>, Jon Barker<sup>3</sup>, Trevor J. Cox<sup>4</sup>, Bruno Fazenda<sup>4</sup>, Jennifer Firth<sup>1</sup>, Simone Graetzer<sup>4</sup>, Alinka Greasle<sup>2</sup>, Rebecca Vos<sup>4</sup>, William Whitmer<sup>1</sup></span><i> &#40;<sup>1</sup>University of Nottingham; <sup>2</sup>University of Leeds; <sup>3</sup>University of Sheffield; <sup>4</sup>University of Salford&#41;</i></td>
                 </tr> 
             </tbody>
         </table>
@@ -123,7 +125,7 @@ Cadenza-2023 will be a one-day online workshop.
     <div class="card-body">
         <table>
             <tbody>
-                <div style="margin-bottom: 1em;">Session chair: <i>TBC</i></div>
+                <div style="margin-bottom: 1em;">Session chair: <i>Rebecca Vos</i></div>
                     <tr>
                         <td width=100px valign="top">15:00-15:15</td>
                         <td style="padding-bottom: 1em;"><b> Who, Where, When, Why, What and How of listening to music via hearing aids </b><br /> <span class="author"><a href=""> Katherine Phipps</a></span> </td>
@@ -253,7 +255,7 @@ Cadenza-2023 will be a one-day online workshop.
             <tbody>
                 <!--<div style="margin-bottom: 1em;">Session chair: <i>TBC</i></div>-->
                 <tr>
-                    <td width=100px valign="top">15:40-16:00</td><td style="padding-bottom: 1em;"><b> CAD2 plans and discussion </b><br /> <span class="author">Michael A. Akeroyd<sup>1</sup>, Scott Bannister<sup>2</sup>, Jon Barker<sup>3</sup>, Trevor J. Cox<sup>4</sup>, Bruno Fazenda<sup>4</sup>, Jennifer Firth<sup>1</sup>, Simone Graetzer<sup>4</sup>, Alinka Greasle<sup>2</sup>, Gerardo Roa Dabike<sup>4</sup>, Rebecca Vos<sup>4</sup>, William Whitmer<sup>1</sup></span><i> &#40;<sup>1</sup>University of Nottingham; <sup>2</sup>University of Leeds; <sup>3</sup>University of Sheffield; <sup>4</sup>University of Salford&#41;</i> <a href="">[Slides]</a> </td>
+                    <td width=100px valign="top">15:40-16:00</td><td style="padding-bottom: 1em;"><b> CAD2 plans and discussion </b><br /> <span class="author">Trevor J. Cox<sup>4</sup>, Michael A. Akeroyd<sup>1</sup>, Scott Bannister<sup>2</sup>, Jon Barker<sup>3</sup>, Bruno Fazenda<sup>4</sup>, Jennifer Firth<sup>1</sup>, Simone Graetzer<sup>4</sup>, Alinka Greasle<sup>2</sup>, Gerardo Roa Dabike<sup>4</sup>, Rebecca Vos<sup>4</sup>, William Whitmer<sup>1</sup></span><i> &#40;<sup>1</sup>University of Nottingham; <sup>2</sup>University of Leeds; <sup>3</sup>University of Sheffield; <sup>4</sup>University of Salford&#41;</i> <a href="">[Slides]</a> </td>
                 </tr>
             </tbody>
         </table>
