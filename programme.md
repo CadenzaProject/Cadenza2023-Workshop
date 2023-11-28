@@ -37,6 +37,7 @@ Cadenza-2023 will be a one-day online workshop.
     <a name="keynote1"></a>
     <div class="card-header">
         <div class="row  align-items-center">   
+            <div style="margin-bottom: 1em;">Session chair: <i>Trevor Cox</i></div>
             <div class="col-sm-3">
                 <img src="/cadenza2023-workshop/assets/images/JReiss.jpg" alt="Joshua Reiss" class="float-left rounded-circle" style="width:100%" />
             </div>
