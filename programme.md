@@ -148,7 +148,7 @@ Cadenza-2023 will be a one-day online workshop.
     <div class="card-header">
         <div class="row  align-items-center">   
             <div class="col-sm-3">
-                <img src="/cadenza2023-workshop/assets/images/empty_pic.png" alt="Katherine Phipps" class="float-left rounded-circle" style="width:100%" />
+                <img src="/cadenza2023-workshop/assets/images/kath.jpg" alt="Katherine Phipps" class="float-left rounded-circle" style="width:100%" />
             </div>
             <div class="col-sm-9">
                 <h1 class="lead">Katherine Phipps <div class="text-muted"></div></h1>
