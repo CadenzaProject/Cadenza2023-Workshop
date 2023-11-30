@@ -132,7 +132,7 @@ Cadenza-2023 will be a one-day online workshop.
                     </tr>
 
                     <tr>
-                        <td width=100px valign="top">15:15-15:35</td><td style="padding-bottom: 1em;"><b> Developmental of Musical Scene Analysis Test </b><br /> <span class="author"><a href=""> Robin Hake</a></span> <i>&#40;Universit&#228;t Oldenburg, Germany&#41;</i></td>
+                        <td width=100px valign="top">15:15-15:35</td><td style="padding-bottom: 1em;"><b> The Development and Application of the New Musical Scene Analysis Test </b><br /> <span class="author"><a href=""> Robin Hake</a></span> <i>&#40;Universit&#228;t Oldenburg, Germany&#41;</i></td>
                     </tr>
 
                     <tr>
@@ -190,29 +190,29 @@ Cadenza-2023 will be a one-day online workshop.
             </div>
             <div class="col-sm-9">
                 <h1 class="lead">Robin Hake <div class="text-muted">Universit&#228;t Oldenburg, Germany</div></h1>
-                <h1> Developmental of Musical Scene Analysis Test</h1>
-                <!--
+                <h1> The Development and Application of the New Musical Scene Analysis Test</h1>
+                
                 <button class="btn btn-primary" style="color:white; margin: 10px; border-radius: 4px;" type="button" data-toggle="collapse" data-target="#collapseAbstractRobin" aria-expanded="false" aria-controls="collapseAbstractRobin">
                 Abstract and Bio
                 </button>
-                -->
+                
             </div>
-            <!--
+            
             <div class="collapse" id="collapseAbstractRobin">
                 <div class="card-body">
-                <h1 class="card-title">Developmental of Musical Scene Analysis Test</h1>
+                <h1 class="card-title">The Development and Application of the New Musical Scene Analysis Test</h1>
 
                 <h3>Abstract</h3>
 
-                <p>.</p>
+                <p>Auditory Scene Analysis (ASA) is a fundamental process in music perception, enabling listeners to organize complex acoustic environments into coherent auditory streams. This talk first introduces the newly developed Musical Scene Analysis (MSA) test, an adaptive tool designed to assess musical ASA abilities for a diverse audience, including both normal-hearing and hearing-impaired individuals. The MSA test is distinguished by its adaptability and the use of ecologically valid, realistic stimuli, which render it particularly effective at modeling individual differences in musical ASA abilities. The second part of this talk will delve into these individual differences, examining how factors such as age, musical sophistication, hearing impairment, and cognitive functions can influence ASA abilities.</p>
             
                 <h3>Bio</h3>
 
-                <p>.</p>
+                <p>Currently, as a PhD student at the Music Perception and Processing Lab under Dr. Kai Siedenburg (University of Oldenburg), Robin Hake is engaged in research on Auditory Scene Analysis (ASA) in music. Specifically, he focuses on modelling individual differences in ASA within a musical context for normal-hearing and hearing-impaired individuals. With a background in psychology (University of Groningen), Robin’s academic journey has been marked by a keen interest in understanding the processes that drive music perception.</p>
             
                 </div>
             </div>
-            -->
+            
         </div>
     </div>
 </div>
