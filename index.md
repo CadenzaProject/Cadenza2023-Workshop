@@ -21,9 +21,7 @@ title: Improving music listening for those with hearing impairment (Cadenza-2023
     Meeting ID: 327 047 098 255
     Passcode: Hpz4kp
 
-    <a href="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fmicrosoft-teams%2Fdownload-app&data=05%7C01%7CG.RoaDabike%40salford.ac.uk%7Ca6a6e354053249de0db008dbf4bcfc6b%7C65b52940f4b641bd833d3033ecbcf6e1%7C0%7C0%7C638372864756150413%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=E3EY7HZbHJUu%2BK12Mu9hATHFoBHwQqvbPiLNj4qkyko%3D&reserved=0">Download Teams</a> | <a = href=https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.microsoft.com%2Fmicrosoft-teams%2Fjoin-a-meeting&data=05%7C01%7CG.RoaDabike%40salford.ac.uk%7Ca6a6e354053249de0db008dbf4bcfc6b%7C65b52940f4b641bd833d3033ecbcf6e1%7C0%7C0%7C638372864756150413%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=tDFqBBZVSVcGzruDKAMtvziQ7JBHOLEVtEsEVvorHwo%3D&reserved=0>Join on the web<a>
-
-
+    <a href="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fmicrosoft-teams%2Fdownload-app&data=05%7C01%7CG.RoaDabike%40salford.ac.uk%7Ca6a6e354053249de0db008dbf4bcfc6b%7C65b52940f4b641bd833d3033ecbcf6e1%7C0%7C0%7C638372864756150413%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=E3EY7HZbHJUu%2BK12Mu9hATHFoBHwQqvbPiLNj4qkyko%3D&reserved=0">Download Teams</a> | <a href=https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.microsoft.com%2Fmicrosoft-teams%2Fjoin-a-meeting&data=05%7C01%7CG.RoaDabike%40salford.ac.uk%7Ca6a6e354053249de0db008dbf4bcfc6b%7C65b52940f4b641bd833d3033ecbcf6e1%7C0%7C0%7C638372864756150413%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=tDFqBBZVSVcGzruDKAMtvziQ7JBHOLEVtEsEVvorHwo%3D&reserved=0>Join on the web<a>
 
 </div>
 
