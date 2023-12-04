@@ -14,14 +14,14 @@ title: Improving music listening for those with hearing impairment (Cadenza-2023
 
 <div class="alert alert-info" role="alert">
     The workshop will run on Microsoft Teams meetings
-
-    <b>Join on your computer, mobile app or room device</b>
+    <br>
+    Join on your computer, mobile app or room device
     <a href="https://eur01.safelinks.protection.outlook.com/ap/t-59584e83/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fmeetup-join%2F19%253ameeting_ZmMxZTI5MDctZDE1Mi00YWZhLTllZTMtZDFhYWM5YTY3Mjk3%2540thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252265b52940-f4b6-41bd-833d-3033ecbcf6e1%2522%252c%2522Oid%2522%253a%252269e1e21a-e41d-42a2-a013-2e08b1a84328%2522%257d&data=05%7C01%7CG.RoaDabike%40salford.ac.uk%7Ca6a6e354053249de0db008dbf4bcfc6b%7C65b52940f4b641bd833d3033ecbcf6e1%7C0%7C0%7C638372864756150413%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=LSTpAc3sizvEC0ELXTTW6e1OB7Tnl%2F7YQ24UxDUx%2Bj0%3D&reserved=0">Click here to join the meeting</a>
     <br>
-    Meeting ID: 327 047 098 255
-    Passcode: Hpz4kp
+    Meeting ID: 327 047 098 255 <br>
+    Passcode: Hpz4kp <br>
 
-    <a href="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fmicrosoft-teams%2Fdownload-app&data=05%7C01%7CG.RoaDabike%40salford.ac.uk%7Ca6a6e354053249de0db008dbf4bcfc6b%7C65b52940f4b641bd833d3033ecbcf6e1%7C0%7C0%7C638372864756150413%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=E3EY7HZbHJUu%2BK12Mu9hATHFoBHwQqvbPiLNj4qkyko%3D&reserved=0">Download Teams</a> | <a href=https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.microsoft.com%2Fmicrosoft-teams%2Fjoin-a-meeting&data=05%7C01%7CG.RoaDabike%40salford.ac.uk%7Ca6a6e354053249de0db008dbf4bcfc6b%7C65b52940f4b641bd833d3033ecbcf6e1%7C0%7C0%7C638372864756150413%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=tDFqBBZVSVcGzruDKAMtvziQ7JBHOLEVtEsEVvorHwo%3D&reserved=0>Join on the web<a>
+    <a href="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fmicrosoft-teams%2Fdownload-app&data=05%7C01%7CG.RoaDabike%40salford.ac.uk%7Ca6a6e354053249de0db008dbf4bcfc6b%7C65b52940f4b641bd833d3033ecbcf6e1%7C0%7C0%7C638372864756150413%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=E3EY7HZbHJUu%2BK12Mu9hATHFoBHwQqvbPiLNj4qkyko%3D&reserved=0">Download Teams</a> | <a href="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.microsoft.com%2Fmicrosoft-teams%2Fjoin-a-meeting&data=05%7C01%7CG.RoaDabike%40salford.ac.uk%7Ca6a6e354053249de0db008dbf4bcfc6b%7C65b52940f4b641bd833d3033ecbcf6e1%7C0%7C0%7C638372864756150413%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=tDFqBBZVSVcGzruDKAMtvziQ7JBHOLEVtEsEVvorHwo%3D&reserved=0">Join on the web<a>
 
 </div>
 
