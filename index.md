@@ -13,7 +13,7 @@ title: Improving music listening for those with hearing impairment (Cadenza-2023
 
 
 <div class="alert alert-info" role="alert">
-    <p><b>The workshop will run on Microsoft Teams meetings</b></p>
+    <h2>The workshop will run on Microsoft Teams meetings</h2>
     
     <p>
     Join on your computer, mobile app or room device <br>
