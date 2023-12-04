@@ -85,3 +85,9 @@ h3 {
   padding: -20px;
   margin: 0px 0px 0px -20px;
 }
+
+.alert-blue {
+  color: #2f6473;
+  background-color: #dff0d8;
+  border-color: #d6e9c6;
+}
