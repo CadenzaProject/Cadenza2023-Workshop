@@ -104,11 +104,11 @@ Cadenza-2023 will be a one-day online workshop.
                 </tr>
                 
                 <tr>
-                    <td width=100px valign="top">13:35-13:50</td><td style="padding-bottom: 1em;"><b> The Cadenza Challenge – Task 1 - Team E012</b> <a href="">[Paper]</a> <br /> <span class="author"> TBC</span><i> (University of Leeds, Leeds, UK)</i></td>
+                    <td width=100px valign="top">13:35-13:50</td><td style="padding-bottom: 1em;"><b> The Cadenza Challenge – Task 1 - Hybrid Demucs</b> <a href="">[Paper]</a> <br /> <span class="author"> TBC</span><i> (University of Leeds, Leeds, UK)</i></td>
                 </tr>
 
                 <tr>
-                    <td width=100px valign="top">13:50-14:05</td><td style="padding-bottom: 1em;"><b> The Cadenza Challenge – Task 1 - Team E016</b> <a href="">[Paper]</a> <br /> <span class="author"> TBC</span><i> (University of Leeds, Leeds, UK)</i></td>
+                    <td width=100px valign="top">13:50-14:05</td><td style="padding-bottom: 1em;"><b> The Cadenza Challenge – Task 1 - Sleeter</b> <a href="">[Paper]</a> <br /> <span class="author"> Debangshu Sarkar, Arundhuti Mukherjee</span><i> (University of Leeds, Leeds, UK)</i></td>
                 </tr>
 
                 <tr>
