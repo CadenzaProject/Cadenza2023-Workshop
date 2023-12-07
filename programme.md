@@ -142,15 +142,15 @@ Cadenza-2023 will be a one-day online workshop.
                 <div style="margin-bottom: 1em;">Session chair: <i>Rebecca Vos</i></div>
                     <tr>
                         <td width=100px valign="top">15:00-15:15</td>
-                        <td style="padding-bottom: 1em;"><b> Who, Where, When, Why, What and How of listening to music via hearing aids </b><br /> <span class="author"><a href=""> Katherine Phipps</a></span> </td>
+                        <td style="padding-bottom: 1em;"><b> Who, Where, When, Why, What and How of listening to music via hearing aids </b><br /> <span class="author"><a > Katherine Phipps</a></span> </td>
                     </tr>
 
                     <tr>
-                        <td width=100px valign="top">15:15-15:35</td><td style="padding-bottom: 1em;"><b> The Development and Application of the New Musical Scene Analysis Test </b><br /> <span class="author"><a href=""> Robin Hake</a></span> <i>&#40;Universit&#228;t Oldenburg, Germany&#41;</i></td>
+                        <td width=100px valign="top">15:15-15:35</td><td style="padding-bottom: 1em;"><b> The Development and Application of the New Musical Scene Analysis Test </b> <a href="./slides/2023-12-08_CW2023_Hake_final_blurred.pptx">[Slides]</a> <br /> <span class="author"><a> Robin Hake</a></span> <i>&#40;Universit&#228;t Oldenburg, Germany&#41;</i></td>
                     </tr>
 
                     <tr>
-                        <td width=100px valign="top">15:35-15:55</td><td style="padding-bottom: 1em;"><b> Mixing preferences of hearing-impaired listeners </b><br /> <span class="author"><a href=""> Aravindan Benjamin</a></span> <i>&#40;Universit&#228;t Oldenburg, Germany&#41;</i></td>
+                        <td width=100px valign="top">15:35-15:55</td><td style="padding-bottom: 1em;"><b> Mixing preferences of hearing-impaired listeners </b><br /> <span class="author"><a> Aravindan Benjamin</a></span> <i>&#40;Universit&#228;t Oldenburg, Germany&#41;</i></td>
                     </tr>
             </tbody>
         </table>
