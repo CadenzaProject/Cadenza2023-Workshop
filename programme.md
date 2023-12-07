@@ -142,7 +142,7 @@ Cadenza-2023 will be a one-day online workshop.
                 <div style="margin-bottom: 1em;">Session chair: <i>Rebecca Vos</i></div>
                     <tr>
                         <td width=100px valign="top">15:00-15:15</td>
-                        <td style="padding-bottom: 1em;"><b> Who, Where, When, Why, What and How of listening to music via hearing aids </b> <a href="./slides/2023-12-08_CW2023_Hake_final_blurred.pptx">[Slides] <br /> <span class="author"><a href=""> Katherine Phipps</a></span> </td>
+                        <td style="padding-bottom: 1em;"><b> Who, Where, When, Why, What and How of listening to music via hearing aids </b><br /> <span class="author"><a href=""> Katherine Phipps</a></span> </td>
                     </tr>
 
                     <tr>
