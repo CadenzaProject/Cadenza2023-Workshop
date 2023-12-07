@@ -100,7 +100,7 @@ Cadenza-2023 will be a one-day online workshop.
             <tbody>
                 <div style="margin-bottom: 1em;">Session chair: <i>Scott Bannister</i></div>
                 <tr>
-                    <td width=100px valign="top">13:20-13:35</td><td style="padding-bottom: 1em;"><b> Better Music Demixing with the sliCQ Transform</b> <a href="./slides/cad1_23_hanssian_presentation.pdf">[Slides]</a> <a href="./papers/cad1_23_hanssian_paper.pdf">[Paper]</a> <br /> <span class="author">Sevag Hanssian</span><i> (Montréal, Canada)</i></td>
+                    <td width=100px valign="top">13:20-13:35</td><td style="padding-bottom: 1em;"><b> Better Music Demixing with the sliCQ Transform</b> <a href="">[Slides]</a> <a href="./papers/cad1_23_hanssian_paper.pdf">[Paper]</a> <br /> <span class="author">Sevag Hanssian</span><i> (Montréal, Canada)</i></td>
                 </tr>
                 
                 <tr>
@@ -146,7 +146,7 @@ Cadenza-2023 will be a one-day online workshop.
                     </tr>
 
                     <tr>
-                        <td width=100px valign="top">15:15-15:35</td><td style="padding-bottom: 1em;"><b> The Development and Application of the New Musical Scene Analysis Test </b> <a href="./slides/2023-12-08_CW2023_Hake_final_blurred.pptx">[Slides]</a> <br /> <span class="author"><a> Robin Hake</a></span> <i>&#40;Universit&#228;t Oldenburg, Germany&#41;</i></td>
+                        <td width=100px valign="top">15:15-15:35</td><td style="padding-bottom: 1em;"><b> The Development and Application of the New Musical Scene Analysis Test </b> <a href="">[Slides]</a> <br /> <span class="author"><a> Robin Hake</a></span> <i>&#40;Universit&#228;t Oldenburg, Germany&#41;</i></td>
                     </tr>
 
                     <tr>
