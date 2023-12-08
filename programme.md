@@ -104,7 +104,7 @@ Cadenza-2023 will be a one-day online workshop.
                 </tr>
                 
                 <tr>
-                    <td width=100px valign="top">13:35-13:50</td><td style="padding-bottom: 1em;"><b> The Cadenza Challenge – Task 1 - Hybrid Demucs</b> <a href="">[Paper]</a> <br /> <span class="author"> TBC</span><i> (University of Leeds, Leeds, UK)</i></td>
+                    <td width=100px valign="top">13:35-13:50</td><td style="padding-bottom: 1em;"><b> Advancing Auditory Enhancement: Integration of Demucs and Advanced Remixing Techniques in The Cadenza Challenge 2023</b> <a href="">[Paper]</a> <br /> <span class="author"> Ritu Munsh, Anulan Wu </span><i> (University of Leeds, Leeds, UK)</i></td>
                 </tr>
 
                 <tr>
@@ -146,7 +146,7 @@ Cadenza-2023 will be a one-day online workshop.
                     </tr>
 
                     <tr>
-                        <td width=100px valign="top">15:15-15:35</td><td style="padding-bottom: 1em;"><b> The Development and Application of the New Musical Scene Analysis Test </b> <a href="">[Slides]</a> <br /> <span class="author"><a> Robin Hake</a></span> <i>&#40;Universit&#228;t Oldenburg, Germany&#41;</i></td>
+                        <td width=100px valign="top">15:15-15:35</td><td style="padding-bottom: 1em;"><b> The Development and Application of the New Musical Scene Analysis Test </b> <a href="./slides/2023-12-08_CW2023_Hake_final_blurred.pptx">[Slides]</a> <br /> <span class="author"><a> Robin Hake</a></span> <i>&#40;Universit&#228;t Oldenburg, Germany&#41;</i></td>
                     </tr>
 
                     <tr>
