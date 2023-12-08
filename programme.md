@@ -40,7 +40,7 @@ Cadenza-2023 will be a one-day online workshop.
             <tbody>
                 <div style="margin-bottom: 1em;">Session chair: <i>Trevor Cox</i></div>
                 <tr>
-                    <td width=100px valign="top">12:10-14:40</td><td style="padding-bottom: 1em;"><b> Intelligent mixing for the hearing impaired</b> <a href="">[PDF]</a>  <span class="author">Joshua Reiss</span><i> (Queen Mary University of London) </i></td>
+                    <td width=100px valign="top">12:10-12:40</td><td style="padding-bottom: 1em;"><b> Intelligent mixing for the hearing impaired</b> <a href="">[PDF]</a>  <span class="author">Joshua Reiss</span><i> (Queen Mary University of London) </i></td>
                 </tr> 
             </tbody>
         </table>
