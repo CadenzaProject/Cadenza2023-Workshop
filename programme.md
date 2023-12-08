@@ -104,7 +104,7 @@ Cadenza-2023 will be a one-day online workshop.
                 </tr>
                 
                 <tr>
-                    <td width=100px valign="top">13:35-13:50</td><td style="padding-bottom: 1em;"><b> Advancing Auditory Enhancement: Integration of Demucs and Advanced Remixing Techniques in The Cadenza Challenge 2023</b> <a href="">[Paper]</a> <br /> <span class="author"> Ritu Munsh, Anulan Wu </span><i> (University of Leeds, Leeds, UK)</i></td>
+                    <td width=100px valign="top">13:35-13:50</td><td style="padding-bottom: 1em;"><b> Advancing Auditory Enhancement: Integration of Demucs and Advanced Remixing Techniques in The Cadenza Challenge 2023</b> <a href="">[Paper]</a> <br /> <span class="author"> Ritu Munshi, Anulan Wu </span><i> (University of Leeds, Leeds, UK)</i></td>
                 </tr>
 
                 <tr>
