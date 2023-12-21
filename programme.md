@@ -40,7 +40,7 @@ Cadenza-2023 will be a one-day online workshop.
             <tbody>
                 <div style="margin-bottom: 1em;">Session chair: <i>Trevor Cox</i></div>
                 <tr>
-                    <td width=100px valign="top">12:10-12:40</td><td style="padding-bottom: 1em;"><b> Intelligent mixing for the hearing impaired</b> <a href="">[PDF]</a>  <span class="author">Joshua Reiss</span><i> (Queen Mary University of London) </i></td>
+                    <td width=100px valign="top">12:10-12:40</td><td style="padding-bottom: 1em;"><b> Intelligent mixing for the hearing impaired</b> <span class="author">Joshua Reiss</span><i> (Queen Mary University of London) </i></td>
                 </tr> 
             </tbody>
         </table>
@@ -87,7 +87,7 @@ Cadenza-2023 will be a one-day online workshop.
             <tbody>
                 <div style="margin-bottom: 1em;">Session chair: <i>Jennifer Firth</i></div>
                 <tr>
-                    <td width=100px valign="top">12:40-13:10</td><td style="padding-bottom: 1em;"><b> The First Cadenza Signal Processing Challenge</b> <a href="">[PDF]</a>  <span class="author">Trevor J. Cox<sup>4</sup>, Michael A. Akeroyd<sup>1</sup>, Scott Bannister<sup>2</sup>, Jon Barker<sup>3</sup>, Bruno Fazenda<sup>4</sup>, Jennifer Firth<sup>1</sup>, Simone Graetzer<sup>4</sup>, Alinka Greasley<sup>2</sup>, Gerardo Roa Dabike<sup>4</sup>, Rebecca Vos<sup>4</sup>, William Whitmer<sup>1</sup></span><i> &#40;<sup>1</sup>University of Nottingham; <sup>2</sup>University of Leeds; <sup>3</sup>University of Sheffield; <sup>4</sup>University of Salford&#41;</i></td>
+                    <td width=100px valign="top">12:40-13:10</td><td style="padding-bottom: 1em;"><b> The First Cadenza Signal Processing Challenge</b> <a href="./presentations/CAD1_overview.pdf">[PDF]</a>  <span class="author">Trevor J. Cox<sup>4</sup>, Michael A. Akeroyd<sup>1</sup>, Scott Bannister<sup>2</sup>, Jon Barker<sup>3</sup>, Bruno Fazenda<sup>4</sup>, Jennifer Firth<sup>1</sup>, Simone Graetzer<sup>4</sup>, Alinka Greasley<sup>2</sup>, Gerardo Roa Dabike<sup>4</sup>, Rebecca Vos<sup>4</sup>, William Whitmer<sup>1</sup></span><i> &#40;<sup>1</sup>University of Nottingham; <sup>2</sup>University of Leeds; <sup>3</sup>University of Sheffield; <sup>4</sup>University of Salford&#41;</i></td>
                 </tr> 
             </tbody>
         </table>
@@ -100,19 +100,19 @@ Cadenza-2023 will be a one-day online workshop.
             <tbody>
                 <div style="margin-bottom: 1em;">Session chair: <i>Scott Bannister</i></div>
                 <tr>
-                    <td width=100px valign="top">13:20-13:35</td><td style="padding-bottom: 1em;"><b> Better Music Demixing with the sliCQ Transform</b> <a href="">[Slides]</a> <a href="./papers/cad1_23_hanssian_paper.pdf">[Paper]</a> <br /> <span class="author">Sevag Hanssian</span><i> (Montréal, Canada)</i></td>
+                    <td width=100px valign="top">13:20-13:35</td><td style="padding-bottom: 1em;"><b> Better Music Demixing with the sliCQ Transform</b> <a href="./slides/Entrant_01_E005_Sevag_Hanssian.pdf">[Slides]</a> <a href="./papers/cad1_23_hanssian_paper.pdf">[Paper]</a> <br /> <span class="author">Sevag Hanssian</span><i> (Montréal, Canada)</i></td>
                 </tr>
                 
                 <tr>
-                    <td width=100px valign="top">13:35-13:50</td><td style="padding-bottom: 1em;"><b> Advancing Auditory Enhancement: Integration of Demucs and Advanced Remixing Techniques in The Cadenza Challenge 2023</b> <a href="">[Paper]</a> <br /> <span class="author"> Ritu Munshi, Anulan Wu </span><i> (University of Leeds, Leeds, UK)</i></td>
+                    <td width=100px valign="top">13:35-13:50</td><td style="padding-bottom: 1em;"><b> Advancing Auditory Enhancement: Integration of Demucs and Advanced Remixing Techniques in The Cadenza Challenge 2023</b> <a href="./slides/Entran_02_E012_Ritu_Munshi.pptx">[Slides]</a> <a href="">[Paper]</a> <br /> <span class="author"> Ritu Munshi, Anulan Wu </span><i> (University of Leeds, Leeds, UK)</i></td>
                 </tr>
 
                 <tr>
-                    <td width=100px valign="top">13:50-14:05</td><td style="padding-bottom: 1em;"><b> The Cadenza Challenge – Task 1 - Sleeter</b> <a href="">[Paper]</a> <br /> <span class="author"> Debangshu Sarkar, Arundhuti Mukherjee</span><i> (University of Leeds, Leeds, UK)</i></td>
+                    <td width=100px valign="top">13:50-14:05</td><td style="padding-bottom: 1em;"><b> The Cadenza Challenge – Task 1 - Sleeter</b> <a href="./slides/Entrant_03_E016_Debangshu_Sakar.pptx">[Slides]</a> <a href="">[Paper]</a> <br /> <span class="author"> Debangshu Sarkar, Arundhuti Mukherjee</span><i> (University of Leeds, Leeds, UK)</i></td>
                 </tr>
 
                 <tr>
-                    <td width=100px valign="top">14:05-14:20</td><td style="padding-bottom: 1em;"><b> Audio Mixing and Stem Proportions Adjustment</b> <a href="">[Paper]</a> <br /> <span class="author">Epri Wahyu Pratiwi, Yu Tsao, Stefano Rini</span><i> (Academia Sinica, Taiwan)</i></td>
+                    <td width=100px valign="top">14:05-14:20</td><td style="padding-bottom: 1em;"><b> Audio Mixing and Stem Proportions Adjustment</b> <a href="./slides/WP_Cadenza Workshop-2.pdf">[Slides]</a> <a href="./papers/Audio_Mixing_and_Stem_Proportions_Adjustment-2.pdf">[Paper]</a> <br /> <span class="author">Epri Wahyu Pratiwi, Yu Tsao, Stefano Rini</span><i> (Academia Sinica, Taiwan)</i></td>
                 </tr>
             </tbody>
         </table>

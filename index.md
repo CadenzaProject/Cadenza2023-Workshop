@@ -12,20 +12,7 @@ title: Improving music listening for those with hearing impairment (Cadenza-2023
     </font>
 
 
-<div class="alert alert-success" role="alert">
-    <h2>The workshop will run on Microsoft Teams meetings</h2>
-    
-    <p>
-    Join on your computer, mobile app or room device <br>
-    <a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmMxZTI5MDctZDE1Mi00YWZhLTllZTMtZDFhYWM5YTY3Mjk3%40thread.v2/0?context=%7b%22Tid%22%3a%2265b52940-f4b6-41bd-833d-3033ecbcf6e1%22%2c%22Oid%22%3a%2269e1e21a-e41d-42a2-a013-2e08b1a84328%22%7d">Click here to join the meeting</a>
-    </p>
-    
-    <p>
-    Meeting ID: 327 047 098 255 <br>
-    Passcode: Hpz4kp <br>
-    <a href="https://www.microsoft.com/en-us/microsoft-teams/download-app">Download Teams</a> | <a href="https://www.microsoft.com/en-gb/microsoft-teams/join-a-meeting?rtc=1">Join on the web</a>
-    </p>
-</div>
+
 
 <p>
 We are now pleased to announce the 1st Cadenza Workshop for Machine Learning Challenges to Improve Music Listening for People with a Hearing Impairment.
