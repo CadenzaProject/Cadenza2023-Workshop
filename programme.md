@@ -150,7 +150,7 @@ Cadenza-2023 will be a one-day online workshop.
                     </tr>
 
                     <tr>
-                        <td width=100px valign="top">15:35-15:55</td><td style="padding-bottom: 1em;"><b> Mixing preferences of hearing-impaired listeners </b><br /> <span class="author"><a> Aravindan Benjamin</a>  <a href="https://youtu.be/7n32kDgznYo" target="_blank">[Recording]</a> </span> <i>&#40;Universit&#228;t Oldenburg, Germany&#41;</i></td>
+                        <td width=100px valign="top">15:35-15:55</td><td style="padding-bottom: 1em;"><b> Mixing preferences of hearing-impaired listeners </b>  <a href="https://youtu.be/7n32kDgznYo" target="_blank">[Recording]</a>  <br /> <span class="author"><a> Aravindan Benjamin</a>  </span> <i>&#40;Universit&#228;t Oldenburg, Germany&#41;</i></td>
                     </tr>
             </tbody>
         </table>
