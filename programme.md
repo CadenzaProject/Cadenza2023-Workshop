@@ -104,11 +104,11 @@ Cadenza-2023 will be a one-day online workshop.
                 </tr>
                 
                 <tr>
-                    <td width=100px valign="top">13:35-13:50</td><td style="padding-bottom: 1em;"><b> Advancing Auditory Enhancement: Integration of Demucs and Advanced Remixing Techniques in The Cadenza Challenge 2023</b> <a href="./slides/Presentation_Ritu_Munshi.pptx">[Slides]</a> <a href="./papers/E012-E016_Technical_Report.pdf">[Paper]</a> <br /> <span class="author"> Ritu Munshi, Anulan Wu </span><i> (University of Leeds, Leeds, UK)</i></td>
+                    <td width=100px valign="top">13:35-13:50</td><td style="padding-bottom: 1em;"><b> Advancing Auditory Enhancement: Integration of Demucs and Advanced Remixing Techniques in The Cadenza Challenge 2023</b> <a href="https://youtu.be/PLcz2fYawUc" target="_blank">[Recording]</a> <a href="./slides/Presentation_Ritu_Munshi.pptx">[Slides]</a> <a href="./papers/E012-E016_Technical_Report.pdf">[Paper]</a>  <br /> <span class="author"> Ritu Munshi, Anulan Wu </span><i> (University of Leeds, Leeds, UK)</i></td>
                 </tr>
 
                 <tr>
-                    <td width=100px valign="top">13:50-14:05</td><td style="padding-bottom: 1em;"><b> The Cadenza Challenge – Task 1 - Sleeter</b> <a href="./slides/Presentation_Debangshu_Sakar.pptx">[Slides]</a> <a href="./papers/E012-E016_Technical_Report.pdf">[Paper]</a> <br /> <span class="author"> Debangshu Sarkar, Arundhuti Mukherjee</span><i> (University of Leeds, Leeds, UK)</i></td>
+                    <td width=100px valign="top">13:50-14:05</td><td style="padding-bottom: 1em;"><b> The Cadenza Challenge – Task 1 - Sleeter</b>  <a href="https://youtu.be/qn-WF9eoeAw" target="_blank">[Recording]</a> <a href="./slides/Presentation_Debangshu_Sakar.pptx">[Slides]</a> <a href="./papers/E012-E016_Technical_Report.pdf">[Paper]</a> <br /> <span class="author"> Debangshu Sarkar, Arundhuti Mukherjee</span><i> (University of Leeds, Leeds, UK)</i></td>
                 </tr>
 
                 <tr>
