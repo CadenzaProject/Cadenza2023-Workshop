@@ -112,7 +112,7 @@ Cadenza-2023 will be a one-day online workshop.
                 </tr>
 
                 <tr>
-                    <td width=100px valign="top">14:05-14:20</td><td style="padding-bottom: 1em;"><b> Audio Mixing and Stem Proportions Adjustment</b> <a href="./slides/WP_Cadenza Workshop-2.pdf">[Slides]</a> <a href="./papers/Audio_Mixing_and_Stem_Proportions_Adjustment-2.pdf">[Paper]</a> <br /> <span class="author">Epri Wahyu Pratiwi, Yu Tsao, Stefano Rini</span><i> (Academia Sinica, Taiwan)</i></td>
+                    <td width=100px valign="top">14:05-14:20</td><td style="padding-bottom: 1em;"><b> Audio Mixing and Stem Proportions Adjustment</b> <a href="https://youtu.be/UnhJ7TCGFhI" target="_blank">[Recording]</a> <a href="./slides/WP_Cadenza Workshop-2.pdf">[Slides]</a> <a href="./papers/Audio_Mixing_and_Stem_Proportions_Adjustment-2.pdf">[Paper]</a> <br /> <span class="author">Epri Wahyu Pratiwi, Yu Tsao, Stefano Rini</span><i> (Academia Sinica, Taiwan)</i></td>
                 </tr>
             </tbody>
         </table>
